@@ -1,0 +1,16 @@
+org.apache.commons.lang3.text.translate.EntityArrays@30 0.6290140748023987
+org.apache.commons.lang3.text.translate.EntityArrays@364 0.24255631864070892
+org.apache.commons.lang3.text.translate.EntityArrays@31 0.24223692715168
+org.apache.commons.lang3.text.translate.EntityArrays@374 0.2408081442117691
+org.apache.commons.lang3.text.translate.EntityArrays@336 0.23768918216228485
+org.apache.commons.lang3.text.translate.EntityArrays@347 0.23742200434207916
+org.apache.commons.lang3.text.translate.EntityArrays@131 0.2370128333568573
+org.apache.commons.lang3.text.translate.EntityArrays@135 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@333 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@344 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@352 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@355 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@372 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@373 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@375 0.23552410304546356
+org.apache.commons.lang3.text.translate.EntityArrays@377 0.23552410304546356

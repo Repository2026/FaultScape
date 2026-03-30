@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.FoldConstants@1492 0.55
+com.google.javascript.jscomp.FoldConstants@1511 0.5083333333333334
+com.google.javascript.rhino.Node@1330 0.37638888888888894
+com.google.javascript.rhino.Node@1328 0.32083333333333336
+com.google.javascript.jscomp.Compiler@987 0.31388888888888894
+com.google.javascript.rhino.Node@1329 0.27222222222222225
+com.google.javascript.jscomp.Compiler@980 0.18888888888888888
+com.google.javascript.rhino.Node@1771 0.16111111111111115
+com.google.javascript.jscomp.Compiler@1008 0.14722222222222223
+com.google.javascript.rhino.Node@1010 0.09166666666666667

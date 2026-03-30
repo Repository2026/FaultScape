@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CheckSideEffects@112 0.55
+com.google.javascript.jscomp.CheckSideEffects@116 0.5412280701754386
+com.google.javascript.jscomp.CheckSideEffects@114 0.4096491228070175
+com.google.javascript.jscomp.CheckSideEffects@111 0.4008771929824561
+com.google.javascript.rhino.Node@1373 0.2429824561403509
+com.google.javascript.jscomp.CodeGenerator@992 0.20789473684210524
+com.google.javascript.rhino.Node@1345 0.17280701754385963
+com.google.javascript.rhino.Token@187 0.15526315789473683
+com.google.javascript.rhino.Node@1366 0.13771929824561402
+com.google.javascript.rhino.Node@1358 0.11140350877192982

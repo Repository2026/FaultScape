@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter@212 0.55
+com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter@175 0.48806646525679764
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@122 0.48353474320241685
+com.google.javascript.rhino.jstype.JSType@870 0.41253776435045314
+com.google.javascript.rhino.jstype.JSType@532 0.3974320241691843
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@124 0.29169184290030215
+com.google.javascript.rhino.jstype.UnionType@299 0.23126888217522662
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@120 0.22371601208459213
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@568 0.1
+com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter@251 0.09531722054380665

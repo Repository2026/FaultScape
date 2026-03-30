@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1367 0.55
+com.google.javascript.rhino.Node@1369 0.501388888888889
+com.google.javascript.rhino.Node@941 0.38333333333333336
+com.google.javascript.rhino.Node@933 0.2861111111111111
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax@654 0.27222222222222225
+com.google.javascript.rhino.Node@1057 0.19583333333333336
+com.google.javascript.rhino.Node@1069 0.18888888888888888
+com.google.javascript.rhino.Node@959 0.16111111111111115
+com.google.javascript.rhino.Node@1063 0.14027777777777778
+com.google.javascript.rhino.Node@220 0.1

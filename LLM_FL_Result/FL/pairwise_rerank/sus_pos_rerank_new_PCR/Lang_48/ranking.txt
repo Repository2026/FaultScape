@@ -1,0 +1,10 @@
+org.apache.commons.lang.builder.EqualsBuilder@381 0.55
+org.apache.commons.lang.builder.EqualsBuilder@371 0.3231767614338689
+org.apache.commons.lang.builder.EqualsBuilder@379 0.32194066749072925
+org.apache.commons.lang.builder.EqualsBuilder@372 0.3095797280593325
+org.apache.commons.lang.builder.EqualsBuilder@368 0.27249690976514207
+org.apache.commons.lang.builder.EqualsBuilder@378 0.25395550061804695
+org.apache.commons.lang.builder.EqualsBuilder@408 0.21069221260815818
+org.apache.commons.lang.builder.EqualsBuilder@374 0.16124845488257106
+org.apache.commons.lang.builder.EqualsBuilder@92 0.1
+org.apache.commons.lang.builder.EqualsBuilder@831 0.08708281829419035

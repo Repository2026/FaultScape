@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ScopedAliases@489 0.55
+com.google.javascript.jscomp.ScopedAliases@297 0.41805555555555557
+com.google.javascript.jscomp.Compiler@1414 0.36944444444444446
+com.google.javascript.jscomp.ScopedAliases@289 0.3277777777777778
+com.google.javascript.jscomp.JsAst@101 0.3277777777777778
+com.google.javascript.jscomp.Compiler@1387 0.3173611111111111
+com.google.javascript.jscomp.Scope@178 0.18888888888888888
+com.google.javascript.jscomp.Compiler@1386 0.14722222222222223
+com.google.javascript.jscomp.Compiler@1388 0.13333333333333336
+com.google.javascript.jscomp.JSError@203 0.1

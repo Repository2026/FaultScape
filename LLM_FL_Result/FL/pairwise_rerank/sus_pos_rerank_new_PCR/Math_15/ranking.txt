@@ -1,0 +1,10 @@
+org.apache.commons.math3.util.FastMath@1542 0.55
+org.apache.commons.math3.random.MersenneTwister@178 0.34374999999999994
+org.apache.commons.math3.random.MersenneTwister@193 0.28124999999999994
+org.apache.commons.math3.random.MersenneTwister@176 0.24999999999999994
+org.apache.commons.math3.random.MersenneTwister@179 0.21249999999999997
+org.apache.commons.math3.random.MersenneTwister@177 0.19999999999999996
+org.apache.commons.math3.random.MersenneTwister@150 0.16249999999999998
+org.apache.commons.math3.random.MersenneTwister@216 0.11249999999999999
+org.apache.commons.math3.random.MersenneTwister@132 0.1
+org.apache.commons.math3.random.MersenneTwister@147 0.1

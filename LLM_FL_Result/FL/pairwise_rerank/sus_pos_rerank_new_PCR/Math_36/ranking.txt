@@ -1,0 +1,10 @@
+org.apache.commons.math.fraction.BigFraction@732 0.55
+org.apache.commons.math.fraction.BigFraction@735 0.43997555012224937
+org.apache.commons.math.fraction.BigFraction@131 0.30672371638141804
+org.apache.commons.math.fraction.BigFraction@132 0.28227383863080685
+org.apache.commons.math.fraction.BigFraction@138 0.2394865525672371
+org.apache.commons.math.fraction.BigFraction@125 0.22114914425427867
+org.apache.commons.math.fraction.BigFraction@120 0.17224938875305623
+org.apache.commons.math.fraction.BigFraction@122 0.12334963325183372
+org.apache.commons.math.fraction.BigFraction@121 0.1
+org.apache.commons.math.fraction.BigFraction@144 0.08667481662591686

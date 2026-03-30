@@ -1,0 +1,10 @@
+org.apache.commons.math3.distribution.AbstractIntegerDistribution@193 0.55
+org.apache.commons.math3.random.Well19937c@111 0.49852941176470594
+org.apache.commons.math3.distribution.AbstractIntegerDistribution@142 0.4176470588235294
+org.apache.commons.math3.distribution.AbstractIntegerDistribution@127 0.338235294117647
+org.apache.commons.math3.distribution.AbstractIntegerDistribution@137 0.33676470588235297
+org.apache.commons.math3.distribution.AbstractIntegerDistribution@125 0.28088235294117647
+org.apache.commons.math3.distribution.AbstractIntegerDistribution@130 0.27205882352941174
+org.apache.commons.math3.distribution.HypergeometricDistribution@268 0.10882352941176471
+org.apache.commons.math3.distribution.AbstractIntegerDistribution@126 0.10147058823529412
+org.apache.commons.math3.random.BitsStreamGenerator@92 0.1

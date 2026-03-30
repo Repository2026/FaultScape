@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.LiveVariablesAnalysis@181 0.55
+com.google.javascript.jscomp.NodeUtil@1613 0.4174540682414698
+com.google.javascript.jscomp.LiveVariablesAnalysis@58 0.3583989501312336
+com.google.javascript.rhino.Node@497 0.3465879265091863
+com.google.javascript.jscomp.parsing.IRFactory@568 0.3124671916010498
+com.google.javascript.jscomp.parsing.IRFactory@547 0.22060367454068242
+com.google.javascript.rhino.Node@503 0.14842519685039368
+com.google.javascript.jscomp.parsing.IRFactory@1284 0.14186351706036743
+com.google.javascript.jscomp.parsing.IRFactory@697 0.09593175853018372
+com.google.javascript.jscomp.GoogleCodingConvention@115 0.08937007874015748

@@ -1,0 +1,10 @@
+org.jfree.chart.block.BorderArrangement@454 0.55
+org.jfree.chart.block.BorderArrangement@453 0.47537313432835815
+org.jfree.chart.block.BorderArrangement@450 0.4305970149253731
+org.jfree.chart.block.BorderArrangement@444 0.36840796019900496
+org.jfree.chart.block.BorderArrangement@136 0.2564676616915423
+org.jfree.chart.block.EmptyBlock@85 0.2552238805970149
+org.jfree.chart.block.EmptyBlock@71 0.1992537313432836
+org.jfree.chart.util.RectangleInsets@512 0.1992537313432836
+org.jfree.chart.block.AbstractBlock@151 0.1
+org.jfree.chart.block.AbstractBlock@162 0.09975124378109453

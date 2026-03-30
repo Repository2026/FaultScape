@@ -1,0 +1,10 @@
+org.apache.commons.lang.math.Fraction@470 0.55
+org.apache.commons.lang.math.Fraction@468 0.47413793103448276
+org.apache.commons.lang.math.Fraction@467 0.4413793103448276
+org.apache.commons.lang.math.Fraction@466 0.4327586206896552
+org.apache.commons.lang.math.Fraction@590 0.39482758620689656
+org.apache.commons.lang.math.Fraction@606 0.3086206896551724
+org.apache.commons.lang.math.Fraction@150 0.1879310344827586
+org.apache.commons.lang.math.Fraction@145 0.11896551724137931
+org.apache.commons.lang.math.Fraction@146 0.10172413793103449
+org.apache.commons.lang.math.Fraction@151 0.10172413793103449

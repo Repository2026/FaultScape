@@ -1,0 +1,10 @@
+org.jfree.data.xy.XYSeries@564 0.55
+org.jfree.data.xy.XYSeries@590 0.5415014164305949
+org.jfree.data.xy.XYSeries@563 0.5358356940509914
+org.jfree.data.xy.XYSeries@547 0.4310198300283285
+org.jfree.data.xy.XYSeries@548 0.3403682719546741
+org.jfree.data.xy.XYSeries@570 0.2624645892351275
+org.jfree.data.xy.XYSeries@546 0.23555240793201132
+org.jfree.data.xy.XYSeries@527 0.15623229461756372
+org.jfree.data.xy.XYDataItem@187 0.1
+org.jfree.data.xy.XYDataItem@181 0.09249291784702549

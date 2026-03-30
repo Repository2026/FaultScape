@@ -1,0 +1,10 @@
+org.apache.commons.math.distribution.AbstractContinuousDistribution@97 0.55
+org.apache.commons.math.analysis.solvers.UnivariateRealSolverUtils@199 0.5217261904761905
+org.apache.commons.math.distribution.AbstractContinuousDistribution@100 0.5180059523809523
+org.apache.commons.math.special.Erf@51 0.3773809523809524
+org.apache.commons.math.distribution.AbstractContinuousDistribution@104 0.3148809523809524
+org.apache.commons.math.MaxIterationsExceededException@43 0.23601190476190476
+org.apache.commons.math.MathException@166 0.1392857142857143
+org.apache.commons.math.MathException@121 0.1
+org.apache.commons.math.MathException@120 0.09464285714285714
+org.apache.commons.math.MathException@60 0.07976190476190476

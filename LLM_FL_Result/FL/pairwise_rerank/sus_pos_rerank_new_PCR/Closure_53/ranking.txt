@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.InlineObjectLiterals@412 0.55
+com.google.javascript.jscomp.InlineObjectLiterals@407 0.5414089347079037
+com.google.javascript.jscomp.NodeUtil@1564 0.5139175257731958
+com.google.javascript.jscomp.NodeUtil@1565 0.472680412371134
+com.google.javascript.jscomp.AstValidator@70 0.3936426116838488
+com.google.javascript.jscomp.parsing.IRFactory@376 0.3850515463917525
+com.google.javascript.jscomp.AstValidator@72 0.3850515463917525
+com.google.javascript.jscomp.Compiler@232 0.15309278350515465
+com.google.javascript.rhino.Node@1553 0.11872852233676977
+com.google.javascript.jscomp.Normalize@222 0.1

@@ -1,0 +1,10 @@
+org.apache.commons.lang3.text.translate.LookupTranslator@72 0.55
+org.apache.commons.lang3.text.translate.LookupTranslator@70 0.5407975460122699
+org.apache.commons.lang3.text.translate.LookupTranslator@71 0.4794478527607362
+org.apache.commons.lang3.StringEscapeUtils@506 0.4334355828220859
+org.apache.commons.lang3.text.translate.AggregateTranslator@57 0.295398773006135
+org.apache.commons.lang3.text.translate.AggregateTranslator@52 0.28773006134969326
+org.apache.commons.lang3.text.translate.LookupTranslator@78 0.24171779141104294
+org.apache.commons.lang3.text.translate.LookupTranslator@65 0.1726993865030675
+org.apache.commons.lang3.text.translate.AggregateTranslator@51 0.15736196319018406
+org.apache.commons.lang3.text.translate.LookupTranslator@66 0.10368098159509204

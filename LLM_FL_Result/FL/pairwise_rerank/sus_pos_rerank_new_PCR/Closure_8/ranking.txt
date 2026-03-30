@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CollapseVariableDeclarations@161 0.55
+com.google.javascript.jscomp.CollapseVariableDeclarations@175 0.4291540785498489
+com.google.javascript.jscomp.CollapseVariableDeclarations@201 0.42537764350453167
+com.google.javascript.jscomp.CollapseVariableDeclarations@177 0.4216012084592145
+com.google.javascript.jscomp.CollapseVariableDeclarations@202 0.3596676737160121
+com.google.javascript.jscomp.CollapseVariableDeclarations@113 0.306797583081571
+com.google.javascript.rhino.Node@1433 0.20105740181268883
+com.google.javascript.rhino.Node@1427 0.17084592145015107
+com.google.javascript.rhino.Node@1411 0.11042296072507554
+com.google.javascript.rhino.Node@2253 0.1

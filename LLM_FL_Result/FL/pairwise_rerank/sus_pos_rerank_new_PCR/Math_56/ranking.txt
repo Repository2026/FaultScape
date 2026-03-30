@@ -1,0 +1,10 @@
+org.apache.commons.math.util.MultidimensionalCounter@217 0.55
+org.apache.commons.math.util.MultidimensionalCounter@270 0.4289893617021276
+org.apache.commons.math.util.MultidimensionalCounter@107 0.38377659574468087
+org.apache.commons.math.util.MultidimensionalCounter@115 0.3226063829787234
+org.apache.commons.math.util.MultidimensionalCounter@260 0.3159574468085106
+org.apache.commons.math.util.MultidimensionalCounter@196 0.27606382978723404
+org.apache.commons.math.util.MultidimensionalCounter@94 0.2029255319148936
+org.apache.commons.math.util.MultidimensionalCounter@205 0.14308510638297872
+org.apache.commons.math.util.MultidimensionalCounter@75 0.1
+org.apache.commons.math.util.MultidimensionalCounter@85 0.1

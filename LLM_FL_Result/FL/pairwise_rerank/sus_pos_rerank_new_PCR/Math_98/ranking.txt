@@ -1,0 +1,10 @@
+org.apache.commons.math.linear.BigMatrixImpl@995 0.55
+org.apache.commons.math.linear.BigMatrixImpl@989 0.5254601226993865
+org.apache.commons.math.linear.BigMatrixImpl@991 0.48098159509202454
+org.apache.commons.math.linear.BigMatrixImpl@994 0.41042944785276075
+org.apache.commons.math.linear.RealMatrixImpl@774 0.3337423312883436
+org.apache.commons.math.linear.RealMatrixImpl@779 0.28773006134969326
+org.apache.commons.math.linear.RealMatrixImpl@776 0.21104294478527608
+org.apache.commons.math.linear.RealMatrixImpl@775 0.11134969325153375
+org.apache.commons.math.linear.BigMatrixImpl@154 0.1
+org.apache.commons.math.linear.BigMatrixImpl@153 0.09601226993865031

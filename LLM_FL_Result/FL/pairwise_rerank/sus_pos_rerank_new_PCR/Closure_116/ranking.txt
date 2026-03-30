@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.InlineFunctions@499 0.55
+com.google.javascript.jscomp.PureFunctionIdentifier@500 0.49727272727272726
+com.google.javascript.jscomp.FunctionInjector@741 0.49727272727272726
+com.google.javascript.jscomp.FunctionInjector@553 0.48636363636363633
+com.google.javascript.jscomp.InlineFunctions@495 0.4772727272727272
+com.google.javascript.jscomp.FunctionArgumentInjector@233 0.4590909090909091
+com.google.javascript.jscomp.FunctionArgumentInjector@200 0.34545454545454546
+com.google.javascript.jscomp.PureFunctionIdentifier@1010 0.17727272727272725
+com.google.javascript.jscomp.NodeUtil@1641 0.16818181818181815
+com.google.javascript.rhino.Node@1430 0.1

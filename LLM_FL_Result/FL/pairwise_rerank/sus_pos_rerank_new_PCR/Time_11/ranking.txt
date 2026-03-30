@@ -1,0 +1,10 @@
+org.joda.time.tz.DateTimeZoneBuilder@372 0.55
+org.joda.time.tz.DateTimeZoneBuilder@383 0.424015748031496
+org.joda.time.tz.DateTimeZoneBuilder@352 0.3715223097112861
+org.joda.time.tz.DateTimeZoneBuilder@1098 0.2927821522309711
+org.joda.time.tz.DateTimeZoneBuilder@309 0.23372703412073492
+org.joda.time.tz.DateTimeZoneBuilder@1105 0.2074803149606299
+org.joda.time.tz.DateTimeZoneBuilder@364 0.2074803149606299
+org.joda.time.tz.ZoneInfoCompiler@78 0.1
+org.joda.time.tz.DateTimeZoneBuilder@994 0.08937007874015748
+org.joda.time.tz.DateTimeZoneBuilder@827 0.07624671916010499

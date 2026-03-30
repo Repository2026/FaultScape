@@ -1,0 +1,10 @@
+org.jfree.chart.util.AbstractObjectList@193 0.55
+org.jfree.chart.util.ShapeList@140 0.47346938775510194
+org.jfree.chart.util.ShapeList@164 0.3637755102040816
+org.jfree.chart.util.ShapeList@165 0.3497448979591836
+org.jfree.chart.util.ShapeList@137 0.2604591836734694
+org.jfree.chart.util.AbstractObjectList@214 0.247704081632653
+org.jfree.chart.util.AbstractObjectList@212 0.19668367346938775
+org.jfree.chart.util.AbstractObjectList@216 0.1903061224489796
+org.jfree.chart.util.AbstractObjectList@215 0.1
+org.jfree.chart.util.ShapeList@81 0.08826530612244898

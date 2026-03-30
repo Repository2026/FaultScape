@@ -1,0 +1,10 @@
+org.apache.commons.lang.Entities@845 0.55
+org.apache.commons.lang.Entities@848 0.5306094182825486
+org.apache.commons.lang.Entities@862 0.41842105263157897
+org.apache.commons.lang.Entities@835 0.39764542936288094
+org.apache.commons.lang.Entities@843 0.34224376731301936
+org.apache.commons.lang.Entities@824 0.2868421052631579
+org.apache.commons.lang.Entities@840 0.2854570637119114
+org.apache.commons.lang.Entities@823 0.1538781163434903
+org.apache.commons.lang.Entities@819 0.10540166204986151
+org.apache.commons.lang.Entities@820 0.1

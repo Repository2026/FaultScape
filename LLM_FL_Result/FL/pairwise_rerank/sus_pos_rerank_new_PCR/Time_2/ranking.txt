@@ -1,0 +1,10 @@
+org.joda.time.Partial@223 0.55
+org.joda.time.Partial@221 0.508092485549133
+org.joda.time.Partial@216 0.425
+org.joda.time.Partial@202 0.41127167630057804
+org.joda.time.Partial@213 0.37803468208092483
+org.joda.time.Partial@439 0.295664739884393
+org.joda.time.Partial@215 0.295664739884393
+org.joda.time.base.AbstractPartial@105 0.10780346820809249
+org.joda.time.DurationFieldType@286 0.10780346820809249
+org.joda.time.field.UnsupportedDurationField@227 0.1

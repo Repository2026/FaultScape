@@ -1,0 +1,10 @@
+org.apache.commons.math3.analysis.function.StepFunction@99 0.55
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@159 0.55
+org.apache.commons.math3.optimization.univariate.BrentOptimizer@155 0.5395833333333333
+org.apache.commons.math3.analysis.function.StepFunction@89 0.46874999999999994
+org.apache.commons.math3.util.FastMath@1795 0.38333333333333336
+org.apache.commons.math3.util.FastMath@1823 0.25833333333333336
+org.apache.commons.math3.analysis.FunctionUtils@146 0.21666666666666667
+org.apache.commons.math3.util.MathArrays@568 0.19583333333333336
+org.apache.commons.math3.analysis.FunctionUtils@148 0.13333333333333336
+org.apache.commons.math3.analysis.function.StepFunction@78 0.12291666666666667

@@ -1,0 +1,10 @@
+org.apache.commons.math.distribution.PoissonDistributionImpl@94 0.55
+org.apache.commons.math.distribution.PoissonDistributionImpl@93 0.5293447293447293
+org.apache.commons.math.distribution.PoissonDistributionImpl@97 0.3277777777777777
+org.apache.commons.math.distribution.NormalDistributionImpl@141 0.2494301994301994
+org.apache.commons.math.MathRuntimeException@387 0.21381766381766382
+org.apache.commons.math.exception.util.LocalizedFormats@97 0.1141025641025641
+org.apache.commons.math.exception.util.LocalizedFormats@131 0.10698005698005698
+org.apache.commons.math.MathRuntimeException@136 0.1
+org.apache.commons.math.exception.util.LocalizedFormats@111 0.1
+org.apache.commons.math.util.FastMath@219 0.05

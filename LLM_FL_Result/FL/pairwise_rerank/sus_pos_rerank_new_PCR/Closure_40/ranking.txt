@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.NameAnalyzer@635 0.55
+com.google.javascript.jscomp.ClosureCodingConvention@89 0.49140625000000004
+com.google.javascript.jscomp.ClosureCodingConvention@91 0.33125
+com.google.javascript.rhino.Node@1441 0.315625
+com.google.javascript.rhino.Node@1412 0.26875
+com.google.javascript.rhino.Node@1428 0.26875
+com.google.javascript.jscomp.NameAnalyzer@1226 0.26875
+com.google.javascript.rhino.JSDocInfo@558 0.21406250000000004
+com.google.javascript.jscomp.GoogleCodingConvention@125 0.1
+com.google.javascript.rhino.JSDocInfo@574 0.08125000000000002

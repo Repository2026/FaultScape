@@ -1,0 +1,10 @@
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer@1797 0.55
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer@1796 0.47682926829268285
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer@1793 0.4292682926829269
+org.jfree.chart.plot.CategoryPlot@1339 0.31829268292682916
+org.jfree.chart.plot.CategoryPlot@1356 0.25731707317073166
+org.jfree.chart.plot.CategoryPlot@1362 0.18414634146341463
+org.jfree.chart.plot.CategoryPlot@1672 0.18414634146341463
+org.jfree.chart.plot.CategoryPlot@1613 0.13536585365853657
+org.jfree.data.category.AbstractCategoryDataset@88 0.12317073170731706
+org.jfree.chart.plot.CategoryPlot@1046 0.1

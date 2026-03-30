@@ -1,0 +1,6 @@
+org.apache.commons.lang.LocaleUtils@223 1.5833333333
+org.apache.commons.lang.LocaleUtils@53 1.1777777778
+org.apache.commons.lang.LocaleUtils@51 1.1722222222
+org.apache.commons.lang.LocaleUtils@52 1.1666666667
+org.apache.commons.lang.LocaleUtils@49 1.1666666667
+org.apache.commons.lang.LocaleUtils@47 1.1666666667

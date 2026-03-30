@@ -1,0 +1,10 @@
+org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@183 0.55
+org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@173 0.4052631578947368
+org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@740 0.3986842105263158
+org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@175 0.3657894736842105
+org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@174 0.3131578947368421
+org.jfree.data.statistics.DefaultBoxAndWhiskerCategoryDataset@741 0.306578947368421
+org.jfree.data.Range@335 0.19473684210526315
+org.jfree.data.Range@334 0.12894736842105264
+org.jfree.data.Range@365 0.1
+org.jfree.data.KeyedObjects@203 0.08947368421052632

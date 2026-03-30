@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CodeGenerator@1012 0.55
+com.google.javascript.jscomp.CodeGenerator@1001 0.4267857142857144
+com.google.javascript.jscomp.CodeGenerator@1144 0.42678571428571427
+com.google.javascript.jscomp.CodeGenerator@1154 0.42500000000000004
+com.google.javascript.jscomp.CodeGenerator@932 0.3357142857142857
+com.google.javascript.jscomp.CodeGenerator@624 0.32678571428571423
+com.google.javascript.jscomp.Compiler@1237 0.26428571428571435
+com.google.javascript.jscomp.CodeGenerator@1127 0.15714285714285714
+com.google.javascript.jscomp.Compiler@266 0.12142857142857144
+com.google.javascript.jscomp.CompilerOptions@915 0.1

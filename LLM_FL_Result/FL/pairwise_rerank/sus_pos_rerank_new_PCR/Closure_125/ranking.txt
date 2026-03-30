@@ -1,0 +1,10 @@
+com.google.javascript.rhino.jstype.JSType@958 0.55
+com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter@298 0.4944444444444444
+com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter@83 0.37638888888888883
+com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter@203 0.36249999999999993
+com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter@297 0.2583333333333333
+com.google.javascript.rhino.jstype.FunctionType@778 0.2583333333333333
+com.google.javascript.rhino.jstype.FunctionType@794 0.2236111111111111
+com.google.javascript.rhino.jstype.FunctionType@899 0.21666666666666667
+com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter@168 0.16111111111111112
+com.google.javascript.jscomp.TypeInference@1563 0.1

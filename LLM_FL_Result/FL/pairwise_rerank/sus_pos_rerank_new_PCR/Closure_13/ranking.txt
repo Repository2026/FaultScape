@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1430 0.55
+com.google.javascript.rhino.Node@1446 0.4644736842105263
+com.google.javascript.rhino.Node@1459 0.32105263157894737
+com.google.javascript.jscomp.PeepholeOptimizationsPass@160 0.3144736842105263
+com.google.javascript.jscomp.ShadowVariables@159 0.30986842105263157
+com.google.javascript.jscomp.CheckUnreachableCode@105 0.2605263157894737
+com.google.javascript.rhino.Node@962 0.20131578947368423
+com.google.javascript.jscomp.ShadowVariables@157 0.16842105263157894
+com.google.javascript.jscomp.ShadowVariables@158 0.1355263157894737
+com.google.javascript.rhino.Node@1036 0.09605263157894736

@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeCheck@514 0.55
+com.google.javascript.jscomp.TypeCheck@822 0.45625000000000004
+com.google.javascript.jscomp.TypeCheck@466 0.425
+com.google.javascript.jscomp.TypedScopeCreator@530 0.28437500000000004
+com.google.javascript.jscomp.TypeCheck@999 0.28437500000000004
+com.google.javascript.jscomp.parsing.IRFactory@772 0.26875000000000004
+com.google.javascript.jscomp.parsing.IRFactory@745 0.22187500000000004
+com.google.javascript.jscomp.TypeInference@699 0.22187500000000004
+com.google.javascript.jscomp.parsing.IRFactory@744 0.1984375
+com.google.javascript.jscomp.TypeCheck@929 0.190625

@@ -1,0 +1,10 @@
+org.jfree.chart.plot.CategoryPlot@2538 0.55
+org.jfree.chart.plot.CategoryPlot@2537 0.47702702702702693
+org.jfree.chart.plot.CategoryPlot@2536 0.4418918918918919
+org.jfree.chart.block.AbstractBlock@448 0.381081081081081
+org.jfree.chart.axis.Axis@1101 0.2932432432432432
+org.jfree.chart.axis.Axis@1192 0.22567567567567565
+org.jfree.chart.axis.Axis@1190 0.21216216216216216
+org.jfree.chart.block.AbstractBlock@387 0.13108108108108107
+org.jfree.chart.text.TextUtilities@245 0.1
+org.jfree.chart.axis.Axis@314 0.09054054054054053

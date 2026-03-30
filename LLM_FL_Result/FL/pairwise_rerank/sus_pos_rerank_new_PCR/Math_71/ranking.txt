@@ -1,0 +1,10 @@
+org.apache.commons.math.analysis.solvers.BrentSolver@335 0.55
+org.apache.commons.math.ode.nonstiff.DormandPrince853Integrator@253 0.55
+org.apache.commons.math.analysis.solvers.BrentSolver@282 0.4785714285714286
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@150 0.33571428571428574
+org.apache.commons.math.analysis.solvers.BrentSolver@337 0.33571428571428574
+org.apache.commons.math.ode.events.EventState@238 0.33571428571428574
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@153 0.30892857142857144
+org.apache.commons.math.analysis.solvers.BrentSolver@334 0.27321428571428574
+org.apache.commons.math.analysis.solvers.BrentSolver@339 0.26428571428571435
+org.apache.commons.math.ode.AbstractIntegrator@240 0.26428571428571435

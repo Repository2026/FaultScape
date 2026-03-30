@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.SyntacticScopeCreator@157 0.55
+com.google.javascript.jscomp.CheckGlobalNames@223 0.39615384615384613
+com.google.javascript.jscomp.CheckGlobalNames@157 0.3815649867374006
+com.google.javascript.jscomp.CheckGlobalNames@153 0.37625994694960213
+com.google.javascript.jscomp.CheckGlobalNames@158 0.3749336870026525
+com.google.javascript.jscomp.CheckGlobalNames@101 0.3086206896551724
+com.google.javascript.jscomp.CheckGlobalNames@133 0.19588859416445625
+com.google.javascript.jscomp.CheckGlobalNames@91 0.1561007957559682
+com.google.javascript.jscomp.Compiler@2138 0.10305039787798409
+com.google.javascript.jscomp.BasicErrorManager@45 0.1

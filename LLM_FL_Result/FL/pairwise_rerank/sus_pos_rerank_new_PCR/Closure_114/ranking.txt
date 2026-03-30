@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1430 0.55
+com.google.javascript.rhino.Node@1446 0.4875
+com.google.javascript.jscomp.NameAnalyzer@1610 0.43888888888888883
+com.google.javascript.jscomp.NodeTraversal@582 0.27222222222222225
+com.google.javascript.jscomp.NodeTraversal@586 0.26527777777777783
+com.google.javascript.jscomp.NameAnalyzer@1598 0.25138888888888883
+com.google.javascript.jscomp.NameAnalyzer@561 0.21666666666666667
+com.google.javascript.jscomp.NameAnalyzer@1592 0.2097222222222222
+com.google.javascript.jscomp.NameAnalyzer@1586 0.16111111111111112
+com.google.javascript.rhino.Node@1459 0.10555555555555557

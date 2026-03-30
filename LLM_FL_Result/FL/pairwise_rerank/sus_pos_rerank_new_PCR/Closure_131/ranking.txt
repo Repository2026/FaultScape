@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ConvertToDottedProperties@46 0.55
+com.google.javascript.jscomp.NodeUtil@2444 0.55
+com.google.javascript.jscomp.ConvertToDottedProperties@59 0.496875
+com.google.javascript.rhino.TokenStream@193 0.3625
+com.google.javascript.jscomp.ConvertToDottedProperties@50 0.3546875
+com.google.javascript.rhino.Node@1446 0.346875
+com.google.javascript.rhino.Node@1433 0.24531250000000004
+com.google.javascript.rhino.Node@1417 0.2296875
+com.google.javascript.rhino.Node@1416 0.11250000000000002
+com.google.javascript.jscomp.ConvertToDottedProperties@41 0.1

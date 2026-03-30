@@ -1,0 +1,10 @@
+org.apache.commons.math.linear.CholeskyDecompositionImpl@114 0.55
+org.apache.commons.math.linear.DenseRealMatrix@634 0.4961279461279461
+org.apache.commons.math.linear.DenseRealMatrix@623 0.4666666666666666
+org.apache.commons.math.linear.DenseRealMatrix@621 0.38670033670033666
+org.apache.commons.math.linear.AbstractRealMatrix@996 0.23518518518518516
+org.apache.commons.math.linear.AbstractRealMatrix@998 0.20151515151515148
+org.apache.commons.math.linear.AbstractRealMatrix@993 0.1005050505050505
+org.apache.commons.math.linear.AbstractRealMatrix@1003 0.1005050505050505
+org.apache.commons.math.linear.AbstractRealMatrix@994 0.1
+org.apache.commons.math.linear.AbstractRealMatrix@995 0.1

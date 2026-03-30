@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CodeConsumer@245 0.55
+com.google.javascript.jscomp.parsing.IRFactory@975 0.4779999999999999
+com.google.javascript.jscomp.Compiler@1469 0.34333333333333327
+com.google.javascript.jscomp.parsing.TypeSafeDispatcher@144 0.33666666666666667
+com.google.javascript.jscomp.CodeGenerator@98 0.27666666666666667
+com.google.javascript.jscomp.Compiler@1475 0.23000000000000004
+com.google.javascript.jscomp.CodeConsumer@274 0.09
+com.google.javascript.jscomp.Compiler@254 0.09
+com.google.javascript.jscomp.Compiler@289 0.09
+com.google.javascript.jscomp.ComposeWarningsGuard@121 0.09

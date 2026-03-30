@@ -1,0 +1,10 @@
+org.apache.commons.math3.analysis.function.StepFunction@87 0.55
+org.apache.commons.math3.analysis.function.StepFunction@89 0.5245762711864407
+org.apache.commons.math3.analysis.function.StepFunction@84 0.5177966101694916
+org.apache.commons.math3.analysis.FunctionUtils@145 0.39745762711864413
+org.apache.commons.math3.analysis.function.StepFunction@99 0.38898305084745766
+org.apache.commons.math3.util.FastMath@1795 0.32118644067796615
+org.apache.commons.math3.analysis.FunctionUtils@146 0.16864406779661018
+org.apache.commons.math3.analysis.FunctionUtils@148 0.10084745762711865
+org.apache.commons.math3.util.FastMath@1823 0.10084745762711865
+org.apache.commons.math3.util.MathArrays@561 0.1

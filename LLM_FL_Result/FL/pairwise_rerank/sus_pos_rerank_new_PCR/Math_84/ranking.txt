@@ -1,0 +1,10 @@
+org.apache.commons.math.optimization.direct.MultiDirectional@90 0.55
+org.apache.commons.math.optimization.direct.MultiDirectional@74 0.38606557377049183
+org.apache.commons.math.optimization.direct.MultiDirectional@70 0.37377049180327865
+org.apache.commons.math.optimization.direct.MultiDirectional@73 0.33825136612021856
+org.apache.commons.math.MaxIterationsExceededException@43 0.323224043715847
+org.apache.commons.math.optimization.direct.MultiDirectional@127 0.2480874316939891
+org.apache.commons.math.optimization.direct.DirectSearchOptimizer@320 0.21393442622950826
+org.apache.commons.math.optimization.direct.MultiDirectional@131 0.15245901639344261
+org.apache.commons.math.optimization.direct.MultiDirectional@115 0.14562841530054643
+org.apache.commons.math.optimization.RealPointValuePair@70 0.1

@@ -1,0 +1,10 @@
+org.apache.commons.math.special.Gamma@257 0.55
+org.apache.commons.math.special.Gamma@182 0.5342105263157895
+org.apache.commons.math.special.Gamma@256 0.4535087719298246
+org.apache.commons.math.special.Gamma@243 0.39210526315789473
+org.apache.commons.math.special.Gamma@162 0.3921052631578947
+org.apache.commons.math.special.Gamma@200 0.36578947368421055
+org.apache.commons.math.special.Gamma@158 0.2605263157894737
+org.apache.commons.math.special.Gamma@248 0.22543859649122805
+org.apache.commons.math.special.Gamma@120 0.19035087719298244
+org.apache.commons.math.special.Gamma@237 0.1

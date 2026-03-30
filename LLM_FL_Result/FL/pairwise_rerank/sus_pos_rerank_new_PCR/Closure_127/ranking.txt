@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1428 0.55
+com.google.javascript.jscomp.ControlFlowAnalysis@750 0.4052631578947367
+com.google.javascript.jscomp.ControlFlowAnalysis@770 0.36907894736842095
+com.google.javascript.rhino.Node@1457 0.36578947368421044
+com.google.javascript.jscomp.UnreachableCodeElimination@162 0.3276315789473684
+com.google.javascript.rhino.Node@1444 0.313157894736842
+com.google.javascript.jscomp.UnreachableCodeElimination@168 0.20789473684210524
+com.google.javascript.jscomp.UnreachableCodeElimination@169 0.15526315789473683
+com.google.javascript.jscomp.UnreachableCodeElimination@180 0.15526315789473683
+com.google.javascript.jscomp.ControlFlowAnalysis@595 0.1

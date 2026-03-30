@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ClosureCodingConvention@185 0.55
+com.google.javascript.jscomp.ClosureCodingConvention@195 0.42837837837837833
+com.google.javascript.jscomp.ClosureCodingConvention@193 0.3202702702702702
+com.google.javascript.jscomp.NodeUtil@1605 0.3202702702702702
+com.google.javascript.jscomp.ClosureCodingConvention@198 0.31351351351351353
+com.google.javascript.jscomp.ClosureCodingConvention@191 0.29324324324324325
+com.google.javascript.jscomp.ClosureCodingConvention@196 0.2391891891891892
+com.google.javascript.jscomp.Compiler@251 0.19189189189189187
+com.google.javascript.jscomp.ClosureCodingConvention@192 0.1
+com.google.javascript.jscomp.Compiler@1326 0.09054054054054053

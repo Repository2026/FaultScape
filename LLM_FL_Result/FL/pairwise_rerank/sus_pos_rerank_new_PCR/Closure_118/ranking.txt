@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.DisambiguateProperties@566 0.55
+com.google.javascript.jscomp.DisambiguateProperties@501 0.4444827586206897
+com.google.javascript.rhino.jstype.FunctionType@712 0.4396551724137931
+com.google.javascript.jscomp.DisambiguateProperties@563 0.38103448275862073
+com.google.javascript.jscomp.DisambiguateProperties@562 0.27068965517241383
+com.google.javascript.jscomp.DisambiguateProperties@546 0.2155172413793104
+com.google.javascript.jscomp.DisambiguateProperties@167 0.2155172413793104
+com.google.javascript.jscomp.TypeInference@751 0.2155172413793104
+com.google.javascript.jscomp.DisambiguateProperties@547 0.14655172413793105
+com.google.javascript.jscomp.DisambiguateProperties@660 0.10517241379310346

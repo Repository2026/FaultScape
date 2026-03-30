@@ -1,0 +1,10 @@
+org.apache.commons.math3.distribution.LogNormalDistribution@312 0.55
+org.apache.commons.math3.random.Well19937c@98 0.46176470588235285
+org.apache.commons.math3.distribution.GammaDistribution@414 0.4544117647058823
+org.apache.commons.math3.distribution.NormalDistribution@256 0.41764705882352937
+org.apache.commons.math3.distribution.LogNormalDistribution@311 0.41029411764705875
+org.apache.commons.math3.distribution.GammaDistribution@417 0.3014705882352941
+org.apache.commons.math3.distribution.GammaDistribution@374 0.24117647058823527
+org.apache.commons.math3.util.FastMath@1820 0.16764705882352943
+org.apache.commons.math3.util.FastMath@2247 0.1
+org.apache.commons.math3.util.FastMath@2301 0.1

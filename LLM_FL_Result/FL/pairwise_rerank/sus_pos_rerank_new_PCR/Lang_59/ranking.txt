@@ -1,0 +1,10 @@
+org.apache.commons.lang.text.StrBuilder@884 0.55
+org.apache.commons.lang.text.StrBuilder@883 0.4860374414976599
+org.apache.commons.lang.text.StrBuilder@882 0.4860374414976598
+org.apache.commons.lang.text.StrBuilder@881 0.45093603744149763
+org.apache.commons.lang.text.StrBuilder@879 0.3713728549141965
+org.apache.commons.lang.text.StrBuilder@880 0.3612324492979719
+org.apache.commons.lang.text.StrBuilder@108 0.1670046801872075
+org.apache.commons.lang.text.StrBuilder@111 0.1670046801872075
+org.apache.commons.lang.text.StrBuilder@112 0.1
+org.apache.commons.lang.text.StrBuilder@107 0.09680187207488299

@@ -1,0 +1,10 @@
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@282 0.55
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@323 0.5138069705093835
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@258 0.3180965147453083
+org.apache.commons.math.linear.LUDecompositionImpl@390 0.3046916890080429
+org.apache.commons.math.linear.LUDecompositionImpl@406 0.2845844504021448
+org.apache.commons.math.linear.LUDecompositionImpl@367 0.24436997319034853
+org.apache.commons.math.linear.LUDecompositionImpl@379 0.19075067024128683
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@256 0.1438337801608579
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer@260 0.1371313672922252
+org.apache.commons.math.linear.Array2DRowRealMatrix@321 0.10361930294906167

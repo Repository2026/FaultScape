@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@103 0.55
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@356 0.4798245614035087
+com.google.javascript.jscomp.MarkNoSideEffectCalls@190 0.46228070175438596
+com.google.javascript.rhino.Node@1430 0.43070175438596486
+com.google.javascript.jscomp.MarkNoSideEffectCalls@196 0.3921052631578947
+com.google.javascript.rhino.Node@1446 0.2605263157894737
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@94 0.2605263157894737
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@364 0.19035087719298244
+com.google.javascript.jscomp.CheckPathsBetweenNodes@201 0.10263157894736842
+com.google.javascript.jscomp.CheckPathsBetweenNodes@224 0.1

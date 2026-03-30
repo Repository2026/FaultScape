@@ -1,0 +1,10 @@
+org.apache.commons.math3.linear.AbstractRealMatrix@241 0.55
+org.apache.commons.math3.linear.AbstractRealMatrix@265 0.40042735042735045
+org.apache.commons.math3.linear.AbstractRealMatrix@263 0.37763532763532764
+org.apache.commons.math3.linear.AbstractRealMatrix@264 0.3135327635327635
+org.apache.commons.math3.linear.AbstractRealMatrix@266 0.24943019943019945
+org.apache.commons.math3.linear.AbstractRealMatrix@104 0.21381766381766382
+org.apache.commons.math3.linear.Array2DRowRealMatrix@458 0.19957264957264959
+org.apache.commons.math3.linear.Array2DRowRealMatrix@461 0.1354700854700855
+org.apache.commons.math3.linear.Array2DRowRealMatrix@464 0.09273504273504274
+org.apache.commons.math3.linear.Array2DRowRealMatrix@456 0.09273504273504274

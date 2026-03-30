@@ -1,0 +1,10 @@
+org.apache.commons.math3.linear.OpenMapRealVector@352 0.55
+org.apache.commons.math3.linear.OpenMapRealVector@349 0.37196969696969695
+org.apache.commons.math3.linear.OpenMapRealVector@364 0.20151515151515148
+org.apache.commons.math3.linear.OpenMapRealVector@361 0.16363636363636364
+org.apache.commons.math3.linear.OpenMapRealVector@363 0.151010101010101
+org.apache.commons.math3.linear.OpenMapRealVector@365 0.13207070707070706
+org.apache.commons.math3.util.OpenIntToDoubleHashMap@282 0.13207070707070706
+org.apache.commons.math3.linear.OpenMapRealVector@374 0.1
+org.apache.commons.math3.linear.OpenMapRealVector@360 0.08787878787878788
+org.apache.commons.math3.linear.OpenMapRealVector@362 0.08787878787878788

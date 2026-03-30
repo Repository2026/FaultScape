@@ -1,0 +1,10 @@
+org.jfree.data.DefaultKeyedValues2D@458 0.55
+org.jfree.data.DefaultKeyedValues2D@456 0.4967213114754099
+org.jfree.data.category.DefaultCategoryDataset@350 0.44617486338797824
+org.jfree.data.DefaultKeyedValues2D@455 0.3163934426229509
+org.jfree.data.DefaultKeyedValues2D@457 0.28224043715846997
+org.jfree.data.DefaultKeyedValues@316 0.22076502732240438
+org.jfree.data.DefaultKeyedValues@318 0.21393442622950826
+org.jfree.data.DefaultKeyedValues@233 0.1743169398907104
+org.jfree.data.DefaultKeyedValues@337 0.15245901639344261
+org.jfree.data.DefaultKeyedValues@334 0.1046448087431694

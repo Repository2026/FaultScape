@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1461 0.55
+com.google.javascript.jscomp.AbstractPeepholeOptimization@118 0.41
+com.google.javascript.jscomp.PeepholeRemoveDeadCode@450 0.37
+com.google.javascript.jscomp.PeepholeRemoveDeadCode@259 0.3633333333333333
+com.google.javascript.jscomp.NodeUtil@1017 0.31
+com.google.javascript.rhino.Node@2304 0.21000000000000002
+com.google.javascript.rhino.Node@1490 0.21000000000000002
+com.google.javascript.jscomp.PeepholeRemoveDeadCode@220 0.21000000000000002
+com.google.javascript.rhino.Node@2320 0.1
+com.google.javascript.jscomp.NodeUtil@714 0.09666666666666666

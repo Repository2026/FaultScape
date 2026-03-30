@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser@887 0.55
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1701 0.47227979274611387
+com.google.javascript.jscomp.parsing.JsDocTokenStream@72 0.4062176165803108
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1761 0.3025906735751294
+com.google.javascript.jscomp.parsing.JsDocInfoParser@78 0.25725388601036264
+com.google.javascript.jscomp.parsing.JsDocInfoParser@790 0.25725388601036264
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1060 0.23134715025906732
+com.google.javascript.jscomp.parsing.JsDocInfoParser@65 0.14715025906735751
+com.google.javascript.jscomp.parsing.JsDocInfoParser@2158 0.13743523316062176
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1211 0.1

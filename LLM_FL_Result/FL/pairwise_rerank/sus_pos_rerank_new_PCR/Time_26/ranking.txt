@@ -1,0 +1,10 @@
+org.joda.time.DateTime@1678 0.55
+org.joda.time.tz.ZoneInfoProvider@162 0.48295019157088126
+org.joda.time.tz.DateTimeZoneBuilder@1553 0.4331417624521073
+org.joda.time.DateTime@522 0.36130268199233717
+org.joda.time.DateTime@1646 0.31819923371647507
+org.joda.time.DateTimeZone@843 0.26072796934865905
+org.joda.time.field.PreciseDateTimeField@111 0.19367816091954027
+org.joda.time.DateTime@536 0.18409961685823756
+org.joda.time.DateTime@1694 0.11704980842911877
+org.joda.time.DateTime@1662 0.1074712643678161

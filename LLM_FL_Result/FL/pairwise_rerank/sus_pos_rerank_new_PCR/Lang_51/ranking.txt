@@ -1,0 +1,10 @@
+org.apache.commons.lang.BooleanUtils@672 0.55
+org.apache.commons.lang.BooleanUtils@662 0.39722222222222225
+org.apache.commons.lang.BooleanUtils@656 0.3555555555555555
+org.apache.commons.lang.BooleanUtils@677 0.3416666666666667
+org.apache.commons.lang.BooleanUtils@673 0.25833333333333336
+org.apache.commons.lang.BooleanUtils@664 0.21666666666666673
+org.apache.commons.lang.BooleanUtils@666 0.21666666666666667
+org.apache.commons.lang.BooleanUtils@686 0.21111111111111114
+org.apache.commons.lang.BooleanUtils@678 0.18888888888888888
+org.apache.commons.lang.BooleanUtils@692 0.1

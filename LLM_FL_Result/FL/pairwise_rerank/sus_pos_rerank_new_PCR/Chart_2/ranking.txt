@@ -1,0 +1,10 @@
+org.jfree.data.xy.XYIntervalSeries@163 0.55
+org.jfree.data.xy.XYIntervalSeries@94 0.40810810810810816
+org.jfree.data.xy.XYIntervalSeriesCollection@216 0.37432432432432433
+org.jfree.data.xy.XYIntervalDataItem@64 0.35405405405405405
+org.jfree.data.xy.XYInterval@82 0.2594594594594595
+org.jfree.data.xy.XYIntervalDataItem@129 0.2256756756756757
+org.jfree.data.xy.XYIntervalSeriesCollection@84 0.17162162162162162
+org.jfree.data.xy.XYInterval@119 0.14459459459459462
+org.jfree.data.xy.XYIntervalSeriesCollection@89 0.13783783783783782
+org.jfree.data.xy.XYIntervalSeriesCollection@113 0.09054054054054055

@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.NodeUtil@349 0.55
+com.google.javascript.jscomp.PeepholeFoldConstants@245 0.48711656441717793
+com.google.javascript.jscomp.NodeUtil@342 0.44263803680981595
+com.google.javascript.jscomp.NodeUtil@301 0.37361963190184055
+com.google.javascript.jscomp.PeepholeOptimizationsPass@69 0.2992331288343558
+com.google.javascript.jscomp.PeepholeFoldConstants@84 0.28773006134969326
+com.google.javascript.jscomp.PeepholeFoldConstants@220 0.1726993865030675
+com.google.javascript.jscomp.PeepholeFoldConstants@211 0.1726993865030675
+com.google.javascript.rhino.Node@1371 0.11134969325153375
+com.google.javascript.rhino.Node@1400 0.09601226993865031

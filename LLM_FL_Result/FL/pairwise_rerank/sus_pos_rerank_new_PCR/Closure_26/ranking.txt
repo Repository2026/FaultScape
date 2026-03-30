@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ProcessCommonJSModules@210 0.55
+com.google.javascript.jscomp.ProcessCommonJSModules@191 0.4984848484848485
+com.google.javascript.rhino.Node@1446 0.4666666666666667
+com.google.javascript.rhino.Node@1430 0.34545454545454546
+com.google.javascript.rhino.Node@1459 0.23181818181818187
+com.google.javascript.jscomp.PeepholeRemoveDeadCode@645 0.23181818181818187
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax@653 0.22575757575757577
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax@1217 0.17121212121212123
+com.google.javascript.jscomp.ClosureCodeRemoval@145 0.11060606060606062
+com.google.javascript.rhino.Node@2309 0.1

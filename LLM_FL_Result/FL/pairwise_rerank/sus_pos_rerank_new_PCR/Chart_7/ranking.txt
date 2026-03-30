@@ -1,0 +1,10 @@
+org.jfree.data.time.TimePeriodValues@552 0.55
+org.jfree.data.time.TimePeriodValues@375 0.42179487179487174
+org.jfree.data.time.SimpleTimePeriod@77 0.3641025641025641
+org.jfree.data.time.RegularTimePeriod@194 0.21025641025641023
+org.jfree.data.time.SimpleTimePeriod@100 0.12692307692307692
+org.jfree.data.time.SimpleTimePeriod@120 0.12692307692307692
+org.jfree.data.time.RegularTimePeriod@182 0.12692307692307692
+org.jfree.data.time.Year@97 0.1
+org.jfree.data.time.Year@237 0.1
+org.jfree.data.time.Year@104 0.08846153846153845

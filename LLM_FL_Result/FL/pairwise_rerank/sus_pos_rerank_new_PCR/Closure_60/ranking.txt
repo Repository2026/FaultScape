@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1500 0.55
+com.google.javascript.jscomp.DefaultPassConfig@680 0.4071428571428571
+com.google.javascript.rhino.Node@1529 0.3561224489795918
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax@1197 0.3369897959183673
+com.google.javascript.rhino.Node@1542 0.30510204081632647
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax@1181 0.29234693877551016
+com.google.javascript.jscomp.DefaultPassConfig@677 0.19668367346938775
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax@110 0.1392857142857143
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax@1196 0.10102040816326531
+com.google.javascript.jscomp.NodeUtil@121 0.08826530612244898

@@ -1,0 +1,10 @@
+org.apache.commons.math.analysis.BrentSolver@138 0.55
+org.apache.commons.math.analysis.BrentSolver@141 0.5382108183079057
+org.apache.commons.math.analysis.BrentSolver@133 0.4841192787794729
+org.apache.commons.math.analysis.BrentSolver@187 0.3426490984743411
+org.apache.commons.math.analysis.UnivariateRealSolverImpl@295 0.34126213592233007
+org.apache.commons.math.analysis.BrentSolver@184 0.2788488210818308
+org.apache.commons.math.analysis.BrentSolver@193 0.21643550624133145
+org.apache.commons.math.analysis.BrentSolver@194 0.16095700416088765
+org.apache.commons.math.analysis.BrentSolver@179 0.16095700416088765
+org.apache.commons.math.analysis.UnivariateRealSolverImpl@169 0.1

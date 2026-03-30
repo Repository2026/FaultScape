@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypedScopeCreator@1842 0.55
+com.google.javascript.jscomp.TypedScopeCreator@1845 0.45081521739130437
+com.google.javascript.jscomp.TypeValidator@733 0.43858695652173907
+com.google.javascript.jscomp.TypedScopeCreator@1818 0.4304347826086956
+com.google.javascript.jscomp.TypeValidator@741 0.3217391304347826
+com.google.javascript.jscomp.TypeValidator@748 0.27554347826086956
+com.google.javascript.jscomp.TypeValidator@732 0.2130434782608696
+com.google.javascript.jscomp.TypedScopeCreator@1835 0.15869565217391304
+com.google.javascript.jscomp.Scope@464 0.10434782608695653
+com.google.javascript.jscomp.TypedScopeCreator@1799 0.1

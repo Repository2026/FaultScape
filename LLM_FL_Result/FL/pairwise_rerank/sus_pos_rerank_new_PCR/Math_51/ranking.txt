@@ -1,0 +1,10 @@
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver@195 0.55
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver@296 0.49720101781170484
+org.apache.commons.math.util.Incrementor@85 0.3928753180661577
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@124 0.3553435114503816
+org.apache.commons.math.exception.TooManyEvaluationsException@38 0.34898218829516536
+org.apache.commons.math.exception.MaxCountExceededException@54 0.20267175572519086
+org.apache.commons.math.exception.MathIllegalStateException@46 0.12633587786259542
+org.apache.commons.math.exception.MaxCountExceededException@55 0.12633587786259542
+org.apache.commons.math.exception.MathIllegalStateException@36 0.1
+org.apache.commons.math.exception.MaxCountExceededException@62 0.1

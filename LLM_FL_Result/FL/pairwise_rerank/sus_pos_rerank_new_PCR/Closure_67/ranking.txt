@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1414 0.55
+com.google.javascript.rhino.Node@1385 0.45277777777777783
+com.google.javascript.jscomp.AnalyzePrototypeProperties@378 0.38333333333333336
+com.google.javascript.jscomp.RemoveUnusedPrototypeProperties@84 0.3277777777777778
+com.google.javascript.jscomp.AnalyzePrototypeProperties@383 0.27916666666666673
+com.google.javascript.rhino.Node@1427 0.27222222222222225
+com.google.javascript.jscomp.AnalyzePrototypeProperties@225 0.27222222222222225
+com.google.javascript.jscomp.NodeUtil@1522 0.20972222222222225
+com.google.javascript.jscomp.AnalyzePrototypeProperties@326 0.20972222222222225
+com.google.javascript.jscomp.GoogleCodingConvention@131 0.1

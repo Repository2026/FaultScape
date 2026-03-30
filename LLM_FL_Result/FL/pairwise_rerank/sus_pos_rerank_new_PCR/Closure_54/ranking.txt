@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeCheck@1302 0.55
+com.google.javascript.jscomp.TypeCheck@1299 0.4435309973045821
+com.google.javascript.jscomp.TypeCheck@1301 0.42735849056603764
+com.google.javascript.jscomp.TypeInference@710 0.3667115902964959
+com.google.javascript.jscomp.TypeInference@709 0.3208894878706199
+com.google.javascript.jscomp.TypeCheck@1323 0.2588948787061994
+com.google.javascript.jscomp.TypeInference@254 0.21172506738544478
+com.google.javascript.rhino.jstype.JSTypeRegistry@692 0.16590296495956874
+com.google.javascript.rhino.jstype.JSType@678 0.11064690026954177
+com.google.javascript.rhino.jstype.NoObjectType@90 0.1

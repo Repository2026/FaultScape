@@ -1,0 +1,10 @@
+org.apache.commons.lang.enums.ValuedEnum@183 0.55
+org.apache.commons.lang.enums.Enum@519 0.3771604938271605
+org.apache.commons.lang.enums.ValuedEnum@127 0.32160493827160486
+org.apache.commons.lang.enums.ValuedEnum@126 0.2845679012345679
+org.apache.commons.lang.enums.Enum@486 0.17962962962962958
+org.apache.commons.lang.enums.ValuedEnum@128 0.13950617283950617
+org.apache.commons.lang.enums.Enum@287 0.12407407407407407
+org.apache.commons.lang.enums.Enum@291 0.1
+org.apache.commons.lang.enums.Enum@279 0.08703703703703702
+org.apache.commons.lang.enums.Enum@283 0.07469135802469136

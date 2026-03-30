@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1361 0.55
+com.google.javascript.rhino.Node@1367 0.5321428571428571
+com.google.javascript.rhino.Node@1360 0.5142857142857142
+com.google.javascript.rhino.Node@1371 0.3892857142857143
+com.google.javascript.rhino.Node@1330 0.3803571428571429
+com.google.javascript.rhino.Node@1370 0.33571428571428574
+com.google.javascript.rhino.Node@1369 0.33571428571428574
+com.google.javascript.rhino.Node@1328 0.24642857142857144
+com.google.javascript.rhino.Node@1329 0.1928571428571429
+com.google.javascript.jscomp.ProcessClosurePrimitives@880 0.12142857142857144

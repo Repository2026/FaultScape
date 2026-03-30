@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.Compiler@1284 0.55
+com.google.javascript.jscomp.AbstractCommandLineRunner@243 0.49444444444444446
+com.google.javascript.rhino.Node@1459 0.3798611111111111
+com.google.javascript.rhino.Node@1446 0.3694444444444445
+com.google.javascript.rhino.Node@1452 0.20972222222222225
+com.google.javascript.rhino.Node@1445 0.20277777777777783
+com.google.javascript.rhino.Node@1430 0.16111111111111115
+com.google.javascript.rhino.Node@1036 0.14027777777777778
+com.google.javascript.jscomp.CommandLineRunner@672 0.10555555555555557
+com.google.javascript.jscomp.AbstractCommandLineRunner@1018 0.1

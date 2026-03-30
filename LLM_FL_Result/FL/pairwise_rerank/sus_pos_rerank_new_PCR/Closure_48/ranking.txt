@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypedScopeCreator@1523 0.55
+com.google.javascript.rhino.jstype.FunctionType@894 0.534375
+com.google.javascript.jscomp.TypedScopeCreator@513 0.425
+com.google.javascript.jscomp.TypedScopeCreator@1441 0.409375
+com.google.javascript.jscomp.TypedScopeCreator@1439 0.29218750000000004
+com.google.javascript.jscomp.TypedScopeCreator@1545 0.2921875
+com.google.javascript.jscomp.TypeInference@1060 0.26093750000000004
+com.google.javascript.jscomp.TypeInference@1063 0.16718750000000002
+com.google.javascript.rhino.jstype.PrototypeObjectType@169 0.16718750000000002
+com.google.javascript.rhino.jstype.PrototypeObjectType@527 0.11250000000000002

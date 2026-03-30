@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypedScopeCreator@596 0.55
+com.google.javascript.jscomp.TypeInference@650 0.4489071038251366
+com.google.javascript.jscomp.TypedScopeCreator@597 0.4489071038251366
+com.google.javascript.jscomp.TypedScopeCreator@631 0.38606557377049183
+com.google.javascript.jscomp.TypeInference@665 0.3710382513661202
+com.google.javascript.jscomp.FunctionTypeBuilder@451 0.2617486338797814
+com.google.javascript.jscomp.TypeCheck@991 0.16748633879781422
+com.google.javascript.jscomp.TypeInference@1059 0.1592896174863388
+com.google.javascript.jscomp.FunctionTypeBuilder@421 0.14904371584699455
+com.google.javascript.jscomp.TypeCheck@1006 0.1

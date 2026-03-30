@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.Compiler@1288 0.55
+com.google.javascript.jscomp.VarCheck@180 0.47521994134897355
+com.google.javascript.jscomp.VarCheck@162 0.46935483870967737
+com.google.javascript.rhino.Node@1430 0.4605571847507331
+com.google.javascript.rhino.Node@1446 0.3872434017595308
+com.google.javascript.jscomp.Compiler@1033 0.26260997067448677
+com.google.javascript.jscomp.CheckSideEffects@188 0.21129032258064517
+com.google.javascript.rhino.Node@1036 0.1526392961876833
+com.google.javascript.jscomp.VarCheck@275 0.10865102639296188
+com.google.javascript.jscomp.Compiler@603 0.1

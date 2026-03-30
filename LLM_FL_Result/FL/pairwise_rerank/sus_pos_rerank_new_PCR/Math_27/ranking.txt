@@ -1,0 +1,10 @@
+org.apache.commons.math3.fraction.Fraction@597 0.55
+org.apache.commons.math3.fraction.Fraction@319 0.43125
+org.apache.commons.math3.fraction.Fraction@555 0.425
+org.apache.commons.math3.util.ArithmeticUtils@387 0.25
+org.apache.commons.math3.fraction.Fraction@283 0.2
+org.apache.commons.math3.util.ArithmeticUtils@426 0.2
+org.apache.commons.math3.util.ArithmeticUtils@407 0.2
+org.apache.commons.math3.fraction.Fraction@282 0.195
+org.apache.commons.math3.util.ArithmeticUtils@439 0.15000000000000002
+org.apache.commons.math3.util.ArithmeticUtils@400 0.1

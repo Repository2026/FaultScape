@@ -1,0 +1,10 @@
+org.apache.commons.lang3.time.FastDatePrinter@1079 0.55
+org.apache.commons.lang3.time.FastDatePrinter@1134 0.49478527607361966
+org.apache.commons.lang3.time.FastDatePrinter@1008 0.40429447852760736
+org.apache.commons.lang3.time.FastDatePrinter@1004 0.37975460122699384
+org.apache.commons.lang3.time.FastDatePrinter@1241 0.24938650306748467
+org.apache.commons.lang3.time.FastDatePrinter@1243 0.19570552147239262
+org.apache.commons.lang3.time.FastDatePrinter@1230 0.19570552147239262
+org.apache.commons.lang3.time.FastDatePrinter@1005 0.14202453987730063
+org.apache.commons.lang3.time.FastDatePrinter@1238 0.14202453987730063
+org.apache.commons.lang3.time.FastDateParser@570 0.1

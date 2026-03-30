@@ -1,0 +1,10 @@
+org.joda.time.LocalDateTime@199 0.55
+org.joda.time.LocalDate@210 0.5445054945054946
+org.joda.time.LocalDate@447 0.46483516483516474
+org.joda.time.LocalDateTime@501 0.41538461538461535
+org.joda.time.LocalDateTime@504 0.24230769230769228
+org.joda.time.LocalDate@449 0.21758241758241753
+org.joda.time.LocalDateTime@669 0.1324175824175824
+org.joda.time.LocalDate@628 0.1
+org.joda.time.LocalDate@622 0.1
+org.joda.time.LocalDateTime@663 0.0912087912087912

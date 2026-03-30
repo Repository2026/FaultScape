@@ -1,0 +1,10 @@
+org.apache.commons.math.stat.regression.SimpleRegression@264 0.55
+org.apache.commons.math.stat.regression.SimpleRegression@106 0.4340579710144927
+org.apache.commons.math.stat.regression.SimpleRegression@114 0.4195652173913043
+org.apache.commons.math.stat.regression.SimpleRegression@115 0.36884057971014494
+org.apache.commons.math.stat.regression.SimpleRegression@116 0.26014492753623186
+org.apache.commons.math.stat.regression.SimpleRegression@107 0.26014492753623186
+org.apache.commons.math.stat.regression.SimpleRegression@108 0.2528985507246377
+org.apache.commons.math.stat.regression.SimpleRegression@69 0.16594202898550725
+org.apache.commons.math.stat.regression.SimpleRegression@63 0.11521739130434783
+org.apache.commons.math.stat.regression.SimpleRegression@75 0.1

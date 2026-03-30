@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeCheck@1416 0.55
+com.google.javascript.rhino.jstype.JSTypeRegistry@1342 0.5139175257731958
+com.google.javascript.jscomp.FunctionTypeBuilder@486 0.5139175257731958
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1338 0.31632302405498275
+com.google.javascript.jscomp.TypeInference@784 0.31632302405498275
+com.google.javascript.jscomp.FunctionTypeBuilder@471 0.30773195876288656
+com.google.javascript.jscomp.TypeCheck@1380 0.2819587628865979
+com.google.javascript.rhino.JSTypeExpression@86 0.18745704467353952
+com.google.javascript.jscomp.TypeInference@855 0.18745704467353952
+com.google.javascript.jscomp.ClosureCodingConvention@301 0.11872852233676977

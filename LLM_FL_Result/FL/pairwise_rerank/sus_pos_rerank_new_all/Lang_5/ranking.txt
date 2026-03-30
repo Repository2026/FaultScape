@@ -1,0 +1,15 @@
+org.apache.commons.lang3.LocaleUtils@99 1.5500000000
+org.apache.commons.lang3.LocaleUtils@98 1.5080265096
+org.apache.commons.lang3.LocaleUtils@89 1.4270250368
+org.apache.commons.lang3.LocaleUtils@92 1.3077319588
+org.apache.commons.lang3.LocaleUtils@97 1.2502945508
+org.apache.commons.lang3.LocaleUtils@96 1.2429307806
+org.apache.commons.lang3.LocaleUtils@93 1.2414580265
+org.apache.commons.lang3.LocaleUtils@218 1.1530927835
+org.apache.commons.lang3.LocaleUtils@42 1.1000000000
+org.apache.commons.lang3.LocaleUtils@193 1.0941826215
+org.apache.commons.lang3.LocaleUtils@46 0.2945466637611389
+org.apache.commons.lang3.LocaleUtils@297 0.2939092516899109
+org.apache.commons.lang3.LocaleUtils@296 0.29387208819389343
+org.apache.commons.lang3.LocaleUtils@295 0.2936980128288269
+org.apache.commons.lang3.LocaleUtils@298 0.2934481203556061

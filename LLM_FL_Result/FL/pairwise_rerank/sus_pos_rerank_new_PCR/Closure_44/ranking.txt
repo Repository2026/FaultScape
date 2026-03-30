@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CodeGenerator@274 0.55
+com.google.javascript.jscomp.CodeGenerator@986 0.4267123287671233
+com.google.javascript.jscomp.CodeGenerator@269 0.42671232876712323
+com.google.javascript.jscomp.CodeGenerator@120 0.3650684931506849
+com.google.javascript.jscomp.CodeGenerator@1070 0.323972602739726
+com.google.javascript.jscomp.CodeGenerator@104 0.3171232876712328
+com.google.javascript.jscomp.parsing.IRFactory@480 0.21438356164383565
+com.google.javascript.jscomp.Compiler@250 0.1321917808219178
+com.google.javascript.jscomp.CodeGenerator@759 0.10479452054794522
+com.google.javascript.jscomp.DiagnosticGroupWarningsGuard@45 0.1

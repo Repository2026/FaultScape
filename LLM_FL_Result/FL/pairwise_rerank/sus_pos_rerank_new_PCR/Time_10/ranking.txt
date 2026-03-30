@@ -1,0 +1,10 @@
+org.joda.time.field.FieldUtils@217 0.55
+org.joda.time.chrono.BasicDayOfMonthDateTimeField@96 0.39547738693467327
+org.joda.time.chrono.BasicMonthOfYearDateTimeField@309 0.2447236180904523
+org.joda.time.chrono.BasicMonthOfYearDateTimeField@302 0.24472361809045223
+org.joda.time.chrono.BasicGJChronology@120 0.20075376884422114
+org.joda.time.chrono.BasicGJChronology@93 0.1957286432160804
+org.joda.time.chrono.BasicMonthOfYearDateTimeField@300 0.18819095477386932
+org.joda.time.chrono.BasicMonthOfYearDateTimeField@303 0.15804020100502514
+org.joda.time.chrono.GregorianChronology@197 0.15050251256281405
+org.joda.time.chrono.BaseChronology@239 0.1379396984924623

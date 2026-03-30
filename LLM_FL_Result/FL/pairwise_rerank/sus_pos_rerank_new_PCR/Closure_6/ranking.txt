@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeValidator@366 0.55
+com.google.javascript.jscomp.TypeCheck@1872 0.3253424657534246
+com.google.javascript.jscomp.TypeCheck@1093 0.3171232876712328
+com.google.javascript.jscomp.TypeValidator@405 0.3102739726027397
+com.google.javascript.rhino.jstype.EnumType@138 0.276027397260274
+com.google.javascript.jscomp.TypeValidator@577 0.26917808219178085
+com.google.javascript.rhino.jstype.EnumType@92 0.26232876712328773
+com.google.javascript.rhino.jstype.JSType@395 0.21438356164383565
+com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter@121 0.15273972602739727
+com.google.javascript.rhino.jstype.FunctionType@1071 0.1

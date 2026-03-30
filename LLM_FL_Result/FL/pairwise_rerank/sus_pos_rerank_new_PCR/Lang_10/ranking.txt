@@ -1,0 +1,10 @@
+org.apache.commons.lang3.time.FastDateParser@282 0.55
+org.apache.commons.lang3.time.FastDateParser@696 0.48051359516616315
+org.apache.commons.lang3.time.FastDateParser@250 0.48051359516616315
+org.apache.commons.lang3.time.FastDateParser@285 0.41253776435045314
+org.apache.commons.lang3.time.FastDateParser@686 0.3294561933534743
+org.apache.commons.lang3.time.FastDateParser@251 0.2992447129909365
+org.apache.commons.lang3.time.FastDateParser@382 0.2161631419939577
+org.apache.commons.lang3.time.FastDateParser@687 0.15574018126888217
+org.apache.commons.lang3.time.FastDateParser@685 0.11042296072507554
+org.apache.commons.lang3.time.FastDateParser@435 0.1

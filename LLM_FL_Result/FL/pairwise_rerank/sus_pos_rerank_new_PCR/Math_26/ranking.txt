@@ -1,0 +1,10 @@
+org.apache.commons.math3.fraction.Fraction@210 0.55
+org.apache.commons.math3.fraction.Fraction@180 0.5318897637795276
+org.apache.commons.math3.fraction.Fraction@181 0.5192913385826772
+org.apache.commons.math3.fraction.Fraction@182 0.3649606299212598
+org.apache.commons.math3.fraction.FractionConversionException@53 0.3019685039370079
+org.apache.commons.math3.util.FastMath@3258 0.27834645669291336
+org.apache.commons.math3.util.FastMath@3254 0.22322834645669293
+org.apache.commons.math3.exception.MathIllegalStateException@46 0.19173228346456694
+org.apache.commons.math3.util.FastMath@2927 0.1
+org.apache.commons.math3.exception.ConvergenceException@49 0.09724409448818898

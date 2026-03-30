@@ -1,0 +1,10 @@
+org.apache.commons.lang.WordUtils@627 0.55
+org.apache.commons.lang.WordUtils@618 0.4816353887399463
+org.apache.commons.lang.WordUtils@622 0.39316353887399463
+org.apache.commons.lang.WordUtils@631 0.31943699731903485
+org.apache.commons.lang.WordUtils@626 0.3113941018766756
+org.apache.commons.lang.WordUtils@632 0.31139410187667554
+org.apache.commons.lang.StringUtils@5279 0.1
+org.apache.commons.lang.StringUtils@855 0.09021447721179625
+org.apache.commons.lang.StringUtils@851 0.09021447721179625
+org.apache.commons.lang.StringUtils@858 0.09021447721179625

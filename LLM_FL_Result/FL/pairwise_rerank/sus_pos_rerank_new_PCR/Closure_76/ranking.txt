@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.DeadAssignmentsElimination@342 0.55
+com.google.javascript.jscomp.DeadAssignmentsElimination@352 0.5209677419354839
+com.google.javascript.jscomp.DeadAssignmentsElimination@341 0.5096774193548387
+com.google.javascript.jscomp.parsing.IRFactory@459 0.45322580645161287
+com.google.javascript.jscomp.NodeUtil@2004 0.30806451612903224
+com.google.javascript.jscomp.DeadAssignmentsElimination@315 0.25161290322580643
+com.google.javascript.jscomp.DeadAssignmentsElimination@349 0.24354838709677423
+com.google.javascript.rhino.Node@1369 0.23548387096774193
+com.google.javascript.rhino.Node@1398 0.11451612903225807
+com.google.javascript.jscomp.parsing.IRFactory@1325 0.1

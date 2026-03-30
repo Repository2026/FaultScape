@@ -1,0 +1,10 @@
+org.apache.commons.lang3.math.NumberUtils@684 0.55
+org.apache.commons.lang3.math.NumberUtils@468 0.5418566775244299
+org.apache.commons.lang3.math.NumberUtils@474 0.47752442996742667
+org.apache.commons.lang3.math.NumberUtils@467 0.46530944625407167
+org.apache.commons.lang3.math.NumberUtils@471 0.40993485342019537
+org.apache.commons.lang3.math.NumberUtils@458 0.31058631921824104
+org.apache.commons.lang3.math.NumberUtils@462 0.2372964169381107
+org.apache.commons.lang3.math.NumberUtils@460 0.16400651465798044
+org.apache.commons.lang3.math.NumberUtils@466 0.11514657980456026
+org.apache.commons.lang3.math.NumberUtils@461 0.1

@@ -1,0 +1,10 @@
+org.joda.time.format.DateTimeParserBucket@357 0.55
+org.joda.time.format.DateTimeParserBucket@356 0.37579787234042544
+org.joda.time.format.DateTimeParserBucket@352 0.3425531914893617
+org.joda.time.format.DateTimeParserBucket@355 0.3226063829787234
+org.joda.time.base.BaseDateTime@223 0.27606382978723404
+org.joda.time.chrono.BasicGJChronology@140 0.2361702127659574
+org.joda.time.format.DateTimeParserBucket@520 0.10319148936170214
+org.joda.time.format.DateTimeParserBucket@517 0.1
+org.joda.time.format.DateTimeParserBucket@511 0.0898936170212766
+org.joda.time.field.BaseDurationField@146 0.0898936170212766

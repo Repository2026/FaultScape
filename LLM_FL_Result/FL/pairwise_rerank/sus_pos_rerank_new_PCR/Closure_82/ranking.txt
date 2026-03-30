@@ -1,0 +1,10 @@
+com.google.javascript.rhino.jstype.FunctionType@489 0.55
+com.google.javascript.jscomp.TypeCheck@1274 0.3905797101449275
+com.google.javascript.rhino.jstype.JSTypeRegistry@662 0.3688405797101449
+com.google.javascript.rhino.jstype.JSTypeRegistry@659 0.2818840579710145
+com.google.javascript.rhino.jstype.JSTypeRegistry@661 0.2673913043478261
+com.google.javascript.rhino.jstype.JSTypeRegistry@663 0.21666666666666667
+com.google.javascript.rhino.jstype.JSTypeRegistry@609 0.2094202898550725
+com.google.javascript.rhino.jstype.ObjectType@256 0.16594202898550725
+com.google.javascript.rhino.jstype.UnionTypeBuilder@140 0.15144927536231884
+com.google.javascript.rhino.jstype.JSTypeRegistry@606 0.10072463768115941

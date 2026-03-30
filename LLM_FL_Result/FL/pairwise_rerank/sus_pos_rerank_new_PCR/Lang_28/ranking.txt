@@ -1,0 +1,10 @@
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@64 0.55
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@57 0.49680851063829784
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@63 0.45824468085106385
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@37 0.3558510638297872
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@48 0.29601063829787233
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@61 0.27074468085106385
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@54 0.2029255319148936
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@39 0.1497340425531915
+org.apache.commons.lang3.text.translate.NumericEntityUnescaper@42 0.11117021276595745
+org.apache.commons.lang3.text.translate.CharSequenceTranslator@87 0.1

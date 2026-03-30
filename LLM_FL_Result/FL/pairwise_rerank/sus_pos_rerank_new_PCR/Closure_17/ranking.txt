@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypedScopeCreator@1291 0.55
+com.google.javascript.jscomp.TypedScopeCreator@1295 0.5154696132596686
+com.google.javascript.jscomp.TypedScopeCreator@791 0.4367403314917127
+com.google.javascript.jscomp.TypedScopeCreator@1288 0.4049723756906078
+com.google.javascript.jscomp.TypedScopeCreator@586 0.32624309392265194
+com.google.javascript.rhino.JSDocInfoBuilder@587 0.21574585635359123
+com.google.javascript.jscomp.TypedScopeCreator@737 0.20883977900552486
+com.google.javascript.jscomp.TypedScopeCreator@748 0.2019337016574586
+com.google.javascript.rhino.JSDocInfo@345 0.1
+com.google.javascript.rhino.JSDocInfoBuilder@588 0.0914364640883978

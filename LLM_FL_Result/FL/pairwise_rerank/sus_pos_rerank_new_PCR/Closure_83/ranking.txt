@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CommandLineRunner@334 0.55
+com.google.javascript.jscomp.CommandLineRunner@447 0.4192307692307692
+com.google.javascript.jscomp.CommandLineRunner@434 0.40384615384615385
+com.google.javascript.jscomp.CommandLineRunner@448 0.40384615384615385
+com.google.javascript.jscomp.CommandLineRunner@355 0.36538461538461536
+com.google.javascript.jscomp.SourceFile@257 0.2269230769230769
+com.google.javascript.jscomp.CommandLineRunner@364 0.1653846153846154
+com.google.javascript.jscomp.JSSourceFile@55 0.1576923076923077
+com.google.javascript.jscomp.CommandLineRunner@365 0.1
+com.google.javascript.jscomp.CommandLineRunner@363 0.1

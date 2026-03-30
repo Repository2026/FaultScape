@@ -1,0 +1,10 @@
+com.google.javascript.rhino.jstype.RecordTypeBuilder@89 0.55
+com.google.javascript.rhino.jstype.RecordType@247 0.5274193548387097
+com.google.javascript.rhino.jstype.RecordType@248 0.5016129032258065
+com.google.javascript.jscomp.TypeValidator@390 0.485483870967742
+com.google.javascript.rhino.jstype.RecordType@88 0.2919354838709678
+com.google.javascript.rhino.jstype.RecordType@133 0.24354838709677423
+com.google.javascript.rhino.jstype.RecordType@132 0.1709677419354839
+com.google.javascript.jscomp.parsing.JsDocInfoParser@2091 0.1709677419354839
+com.google.javascript.rhino.jstype.RecordTypeBuilder@71 0.1467741935483871
+com.google.javascript.rhino.jstype.RecordType@68 0.0903225806451613

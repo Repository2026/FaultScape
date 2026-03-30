@@ -1,0 +1,10 @@
+org.apache.commons.math3.fraction.BigFraction@356 0.55
+org.apache.commons.math3.fraction.Fraction@215 0.5382697947214076
+org.apache.commons.math3.fraction.Fraction@144 0.4165689149560117
+org.apache.commons.math3.fraction.BigFraction@306 0.3828445747800586
+org.apache.commons.math3.fraction.BigFraction@310 0.3681818181818182
+org.apache.commons.math3.fraction.BigFraction@328 0.31539589442815247
+org.apache.commons.math3.fraction.FractionConversionException@53 0.29926686217008797
+org.apache.commons.math3.exception.ConvergenceException@49 0.1379765395894428
+org.apache.commons.math3.util.FastMath@3006 0.1
+org.apache.commons.math3.exception.MathIllegalStateException@47 0.1

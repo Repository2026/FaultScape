@@ -1,0 +1,10 @@
+org.apache.commons.math3.optim.BaseOptimizer@93 0.55
+org.apache.commons.math3.linear.EigenDecomposition@614 0.4136363636363636
+org.apache.commons.math3.linear.EigenDecomposition@624 0.40714285714285714
+org.apache.commons.math3.linear.EigenDecomposition@612 0.3876623376623376
+org.apache.commons.math3.linear.EigenDecomposition@625 0.2902597402597403
+org.apache.commons.math3.linear.EigenDecomposition@636 0.2448051948051948
+org.apache.commons.math3.linear.EigenDecomposition@641 0.1928571428571429
+org.apache.commons.math3.linear.EigenDecomposition@637 0.1409090909090909
+org.apache.commons.math3.util.Incrementor@114 0.1
+org.apache.commons.math3.util.Incrementor@164 0.08896103896103896

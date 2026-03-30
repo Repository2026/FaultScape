@@ -1,0 +1,10 @@
+org.jfree.data.category.DefaultIntervalCategoryDataset@208 0.55
+org.jfree.data.category.DefaultIntervalCategoryDataset@207 0.4408188585607939
+org.jfree.data.category.DefaultIntervalCategoryDataset@163 0.41848635235732
+org.jfree.data.category.DefaultIntervalCategoryDataset@156 0.34900744416873436
+org.jfree.data.category.DefaultIntervalCategoryDataset@748 0.28573200992555825
+org.jfree.data.category.DefaultIntervalCategoryDataset@641 0.1616625310173697
+org.jfree.data.DataUtilities@130 0.13684863523573199
+org.jfree.data.category.DefaultIntervalCategoryDataset@338 0.13684863523573199
+org.jfree.data.general.AbstractDataset@206 0.12444168734491313
+org.jfree.data.DataUtilities@125 0.1

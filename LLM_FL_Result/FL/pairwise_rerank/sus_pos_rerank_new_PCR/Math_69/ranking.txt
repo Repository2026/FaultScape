@@ -1,0 +1,10 @@
+org.apache.commons.math.stat.correlation.PearsonsCorrelation@171 0.55
+org.apache.commons.math.stat.correlation.PearsonsCorrelation@170 0.4344672657252888
+org.apache.commons.math.special.Beta@151 0.4299743260590501
+org.apache.commons.math.distribution.TDistributionImpl@131 0.3709242618741977
+org.apache.commons.math.special.Beta@125 0.2618100128369705
+org.apache.commons.math.stat.correlation.PearsonsCorrelation@68 0.21046213093709887
+org.apache.commons.math.distribution.TDistributionImpl@128 0.20404364569961492
+org.apache.commons.math.distribution.TDistributionImpl@136 0.15269576379974326
+org.apache.commons.math.distribution.TDistributionImpl@143 0.10134788189987164
+org.apache.commons.math.special.Beta@54 0.08851091142490372

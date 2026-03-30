@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.NodeUtil@1317 0.55
+com.google.javascript.jscomp.NodeUtil@1424 0.5324561403508772
+com.google.javascript.jscomp.PeepholeOptimizationsPass@180 0.47105263157894733
+com.google.javascript.jscomp.NodeUtil@273 0.40964912280701754
+com.google.javascript.jscomp.NodeUtil@1313 0.4008771929824561
+com.google.javascript.jscomp.NodeUtil@1302 0.4008771929824561
+com.google.javascript.jscomp.NodeUtil@1271 0.4008771929824561
+com.google.javascript.rhino.Node@1433 0.30438596491228065
+com.google.javascript.jscomp.NodeUtil@1412 0.10263157894736842
+com.google.javascript.jscomp.NodeUtil@1416 0.1

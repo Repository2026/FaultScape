@@ -1,0 +1,10 @@
+com.google.javascript.rhino.jstype.RecordType@142 0.55
+com.google.javascript.rhino.jstype.RecordType@147 0.481592039800995
+com.google.javascript.rhino.jstype.RecordType@165 0.3634328358208955
+com.google.javascript.rhino.jstype.RecordType@110 0.3547263681592039
+com.google.javascript.rhino.jstype.RecordType@103 0.31368159203980095
+com.google.javascript.rhino.jstype.RecordType@241 0.29253731343283584
+com.google.javascript.rhino.jstype.RecordType@229 0.14328358208955222
+com.google.javascript.rhino.jstype.RecordTypeBuilder@85 0.1308457711442786
+com.google.javascript.rhino.jstype.RecordTypeBuilder@71 0.09975124378109453
+com.google.javascript.rhino.jstype.RecordType@159 0.09975124378109453

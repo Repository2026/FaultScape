@@ -1,0 +1,10 @@
+org.apache.commons.math.ode.nonstiff.EmbeddedRungeKuttaIntegrator@244 0.55
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@267 0.5223076923076925
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@289 0.4776923076923077
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@290 0.4346153846153846
+org.apache.commons.math.ode.nonstiff.EmbeddedRungeKuttaIntegrator@228 0.28846153846153844
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@293 0.24230769230769234
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@261 0.1653846153846154
+org.apache.commons.math.ode.ExpandableStatefulODE@116 0.1576923076923077
+org.apache.commons.math.util.FastMath@3267 0.11153846153846154
+org.apache.commons.math.ode.nonstiff.DormandPrince853Integrator@220 0.1

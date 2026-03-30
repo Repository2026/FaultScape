@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.InlineObjectLiterals@104 0.55
+com.google.javascript.jscomp.InlineObjectLiterals@168 0.5331288343558283
+com.google.javascript.jscomp.InlineObjectLiterals@196 0.48711656441717793
+com.google.javascript.jscomp.NodeUtil@1530 0.36441717791411044
+com.google.javascript.jscomp.InlineObjectLiterals@244 0.295398773006135
+com.google.javascript.jscomp.InlineObjectLiterals@210 0.295398773006135
+com.google.javascript.jscomp.InlineObjectLiterals@189 0.24325153374233133
+com.google.javascript.jscomp.InlineObjectLiterals@239 0.1726993865030675
+com.google.javascript.jscomp.ReferenceCollectingCallback@589 0.1726993865030675
+com.google.javascript.jscomp.GoogleCodingConvention@141 0.1

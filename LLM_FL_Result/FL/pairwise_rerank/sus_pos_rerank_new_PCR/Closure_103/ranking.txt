@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CheckUnreachableCode@65 0.55
+com.google.javascript.jscomp.CheckUnreachableCode@62 0.4905405405405405
+com.google.javascript.jscomp.CheckUnreachableCode@56 0.40405405405405403
+com.google.javascript.jscomp.ControlFlowAnalysis@727 0.3810810810810811
+com.google.javascript.jscomp.CheckUnreachableCode@55 0.36891891891891887
+com.google.javascript.jscomp.ControlFlowAnalysis@628 0.24594594594594588
+com.google.javascript.jscomp.parsing.IRFactory@756 0.21216216216216216
+com.google.javascript.jscomp.parsing.IRFactory@749 0.15135135135135136
+com.google.javascript.jscomp.CombinedCompilerPass@138 0.1
+com.google.javascript.jscomp.CombinedCompilerPass@132 0.07702702702702703

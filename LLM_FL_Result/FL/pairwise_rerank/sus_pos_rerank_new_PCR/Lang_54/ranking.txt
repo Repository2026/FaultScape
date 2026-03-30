@@ -1,0 +1,10 @@
+org.apache.commons.lang.LocaleUtils@116 0.55
+org.apache.commons.lang.LocaleUtils@115 0.506989247311828
+org.apache.commons.lang.LocaleUtils@113 0.3685483870967742
+org.apache.commons.lang.LocaleUtils@110 0.3336021505376344
+org.apache.commons.lang.LocaleUtils@99 0.332258064516129
+org.apache.commons.lang.LocaleUtils@114 0.28521505376344086
+org.apache.commons.lang.LocaleUtils@107 0.22741935483870968
+org.apache.commons.lang.LocaleUtils@95 0.17231182795698924
+org.apache.commons.lang.LocaleUtils@192 0.1
+org.apache.commons.lang.LocaleUtils@223 0.0903225806451613

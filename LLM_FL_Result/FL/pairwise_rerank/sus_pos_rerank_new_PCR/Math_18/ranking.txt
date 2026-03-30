@@ -1,0 +1,10 @@
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@971 0.55
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@958 0.40042735042735045
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@583 0.38333333333333325
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@957 0.3747863247863248
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@932 0.30641025641025643
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@541 0.3064102564102564
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@514 0.25512820512820517
+org.apache.commons.math3.optimization.direct.BaseAbstractMultivariateSimpleBoundsOptimizer@87 0.18675213675213675
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@931 0.11837606837606837
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@246 0.1

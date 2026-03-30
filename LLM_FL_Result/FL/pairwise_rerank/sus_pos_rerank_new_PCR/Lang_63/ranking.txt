@@ -1,0 +1,10 @@
+org.apache.commons.lang.time.DurationFormatUtils@306 0.55
+org.apache.commons.lang.time.DurationFormatUtils@312 0.4755014326647565
+org.apache.commons.lang.time.DurationFormatUtils@323 0.39383954154727796
+org.apache.commons.lang.time.DurationFormatUtils@438 0.3795128939828081
+org.apache.commons.lang.time.DurationFormatUtils@316 0.2964183381088826
+org.apache.commons.lang.time.DurationFormatUtils@331 0.2878223495702006
+org.apache.commons.lang.time.DurationFormatUtils@439 0.27922636103151866
+org.apache.commons.lang.time.DurationFormatUtils@436 0.16461318051575935
+org.apache.commons.lang.time.DurationFormatUtils@437 0.10730659025787967
+org.apache.commons.lang.time.DurationFormatUtils@247 0.1001432664756447

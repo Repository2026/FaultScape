@@ -1,0 +1,10 @@
+org.joda.time.LocalDate@1041 0.55
+org.joda.time.field.PreciseDateTimeField@82 0.47142857142857136
+org.joda.time.field.SkipDateTimeField@89 0.4214285714285714
+org.joda.time.field.SkipDateTimeField@94 0.3642857142857142
+org.joda.time.LocalDate@1663 0.25
+org.joda.time.LocalDate@1708 0.19285714285714284
+org.joda.time.LocalDate@1531 0.15
+org.joda.time.LocalDate@638 0.14285714285714285
+org.joda.time.chrono.GJDayOfWeekDateTimeField@112 0.1
+org.joda.time.LocalDate@1500 0.09285714285714286

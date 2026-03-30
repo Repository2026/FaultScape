@@ -1,0 +1,10 @@
+org.jfree.data.time.TimeSeries@857 0.55
+org.jfree.data.time.TimeSeries@879 0.5334024896265561
+org.jfree.data.time.TimeSeries@880 0.4766943291839557
+org.jfree.data.time.TimeSeries@876 0.4441908713692945
+org.jfree.data.time.TimeSeries@140 0.21597510373443984
+org.jfree.data.time.TimeSeries@600 0.18139695712309817
+org.jfree.data.time.Year@97 0.13298755186721992
+org.jfree.data.time.Year@104 0.11915629322268326
+org.jfree.data.time.TimeSeries@142 0.1
+org.jfree.data.time.Day@92 0.1

@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1417 0.55
+com.google.javascript.jscomp.CollapseProperties@216 0.46447368421052626
+com.google.javascript.rhino.Node@1433 0.40526315789473677
+com.google.javascript.jscomp.ReferenceCollectingCallback@449 0.2539473684210526
+com.google.javascript.jscomp.GlobalNamespace@221 0.2539473684210526
+com.google.javascript.jscomp.ReferenceCollectingCallback@476 0.23421052631578942
+com.google.javascript.jscomp.ReferenceCollectingCallback@710 0.16842105263157892
+com.google.javascript.jscomp.GlobalNamespace@318 0.15526315789473683
+com.google.javascript.jscomp.ReferenceCollectingCallback@709 0.14210526315789473
+com.google.javascript.jscomp.ReferenceCollectingCallback@611 0.14210526315789473

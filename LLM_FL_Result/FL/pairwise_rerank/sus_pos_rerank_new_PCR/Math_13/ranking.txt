@@ -1,0 +1,10 @@
+org.apache.commons.math3.optimization.fitting.CurveFitter@153 0.55
+org.apache.commons.math3.optimization.fitting.CurveFitter@189 0.46369863013698626
+org.apache.commons.math3.optimization.fitting.PolynomialFitter@110 0.4267123287671232
+org.apache.commons.math3.optimization.fitting.CurveFitter@109 0.4184931506849314
+org.apache.commons.math3.optimization.general.AbstractLeastSquaresOptimizer@423 0.323972602739726
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@78 0.2417808219178082
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@79 0.186986301369863
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@136 0.1321917808219178
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@72 0.1047945205479452
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@135 0.1

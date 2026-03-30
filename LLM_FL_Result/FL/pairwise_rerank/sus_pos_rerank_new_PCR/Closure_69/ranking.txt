@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1779 0.55
+com.google.javascript.rhino.jstype.NumberType@67 0.5024539877300613
+com.google.javascript.rhino.jstype.JSTypeRegistry@1455 0.42730061349693255
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1796 0.4180981595092024
+com.google.javascript.jscomp.TypeCheck@1570 0.4180981595092024
+com.google.javascript.jscomp.TypedScopeCreator@808 0.295398773006135
+com.google.javascript.jscomp.TypeCheck@569 0.2187116564417178
+com.google.javascript.jscomp.LinkedFlowScope@295 0.1726993865030675
+com.google.javascript.rhino.jstype.InstanceObjectType@116 0.11134969325153375
+com.google.javascript.rhino.jstype.JSType@200 0.09601226993865031

@@ -1,0 +1,10 @@
+org.apache.commons.lang3.ClassUtils@905 0.55
+org.apache.commons.lang3.ClassUtils@909 0.542283950617284
+org.apache.commons.lang3.ClassUtils@903 0.3964506172839506
+org.apache.commons.lang3.ClassUtils@904 0.3817901234567901
+org.apache.commons.lang3.ClassUtils@906 0.34320987654320984
+org.apache.commons.lang3.ClassUtils@910 0.33549382716049375
+org.apache.commons.lang3.ClassUtils@908 0.19274691358024693
+org.apache.commons.lang3.ClassUtils@912 0.12638888888888888
+org.apache.commons.lang3.ArrayUtils@91 0.1117283950617284
+org.apache.commons.lang3.ArrayUtils@111 0.1

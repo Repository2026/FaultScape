@@ -1,0 +1,10 @@
+org.jfree.data.KeyedObjects2D@378 0.55
+org.jfree.data.KeyedObjects2D@375 0.4051912568306011
+org.jfree.data.KeyedObjects2D@377 0.4024590163934426
+org.jfree.data.KeyedObjects@268 0.3915300546448087
+org.jfree.data.KeyedObjects@266 0.28360655737704915
+org.jfree.data.KeyedObjects@171 0.2754098360655738
+org.jfree.data.KeyedObjects2D@376 0.25491803278688524
+org.jfree.data.KeyedObjects@267 0.22076502732240438
+org.jfree.data.KeyedObjects2D@345 0.1
+org.jfree.data.KeyedObjects2D@344 0.09781420765027322

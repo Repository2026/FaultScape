@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.VarCheck@182 0.55
+com.google.javascript.jscomp.VarCheck@188 0.532479784366577
+com.google.javascript.jscomp.ProcessClosurePrimitives@329 0.4273584905660377
+com.google.javascript.jscomp.VarCheck@135 0.3815363881401617
+com.google.javascript.jscomp.VarCheck@155 0.33436657681940707
+com.google.javascript.jscomp.NodeTraversal@688 0.21172506738544478
+com.google.javascript.jscomp.BasicErrorManager@139 0.16455525606469001
+com.google.javascript.jscomp.NodeTraversal@299 0.14433962264150943
+com.google.javascript.jscomp.BasicErrorManager@159 0.1
+com.google.javascript.jscomp.BasicErrorManager@177 0.09043126684636119

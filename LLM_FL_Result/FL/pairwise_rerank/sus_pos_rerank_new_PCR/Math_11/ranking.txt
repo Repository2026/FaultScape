@@ -1,0 +1,10 @@
+org.apache.commons.math3.util.FastMath@1179 0.55
+org.apache.commons.math3.util.FastMath@1254 0.49852941176470594
+org.apache.commons.math3.util.FastMath@853 0.45441176470588235
+org.apache.commons.math3.util.FastMath@1293 0.38823529411764707
+org.apache.commons.math3.util.FastMath@927 0.3441176470588236
+org.apache.commons.math3.util.FastMath@1585 0.21176470588235297
+org.apache.commons.math3.util.FastMath@1443 0.16764705882352943
+org.apache.commons.math3.util.FastMath@831 0.16029411764705884
+org.apache.commons.math3.util.FastMath@1449 0.16029411764705884
+org.apache.commons.math3.util.FastMath@1479 0.07941176470588236

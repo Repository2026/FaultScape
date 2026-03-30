@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeInference@631 0.55
+com.google.javascript.jscomp.TypeInference@643 0.4785714285714286
+com.google.javascript.jscomp.TypeInference@638 0.4785714285714286
+com.google.javascript.jscomp.TypedScopeCreator@343 0.32678571428571423
+com.google.javascript.jscomp.ClosureCodingConvention@122 0.3178571428571429
+com.google.javascript.jscomp.TypedScopeCreator@1032 0.26428571428571435
+com.google.javascript.jscomp.PrepareAst@165 0.26428571428571435
+com.google.javascript.jscomp.TypeInference@788 0.26428571428571435
+com.google.javascript.jscomp.MemoizedScopeCreator@56 0.12142857142857144
+com.google.javascript.jscomp.PrepareAst@163 0.1

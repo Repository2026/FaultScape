@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ExploitAssigns@145 0.55
+com.google.javascript.jscomp.ExploitAssigns@138 0.4881720430107527
+com.google.javascript.jscomp.ExploitAssigns@114 0.3255376344086022
+com.google.javascript.jscomp.ExploitAssigns@219 0.3067204301075269
+com.google.javascript.rhino.Node@1428 0.2717741935483871
+com.google.javascript.rhino.Node@1444 0.26505376344086023
+com.google.javascript.jscomp.ExploitAssigns@136 0.26505376344086023
+com.google.javascript.jscomp.ExploitAssigns@176 0.2583333333333333
+com.google.javascript.rhino.Node@1457 0.1575268817204301
+com.google.javascript.jscomp.NodeTraversal@174 0.1

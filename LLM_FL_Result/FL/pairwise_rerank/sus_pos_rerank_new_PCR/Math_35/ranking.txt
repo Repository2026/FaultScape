@@ -1,0 +1,10 @@
+org.apache.commons.math3.genetics.ElitisticListPopulation@51 0.55
+org.apache.commons.math3.genetics.ElitisticListPopulation@50 0.4426666666666667
+org.apache.commons.math3.genetics.ListPopulation@55 0.3566666666666667
+org.apache.commons.math3.genetics.ListPopulation@70 0.25666666666666665
+org.apache.commons.math3.genetics.ListPopulation@59 0.13
+org.apache.commons.math3.genetics.ListPopulation@51 0.10333333333333333
+org.apache.commons.math3.genetics.ElitisticListPopulation@36 0.10333333333333333
+org.apache.commons.math3.genetics.ListPopulation@61 0.10333333333333333
+org.apache.commons.math3.genetics.ListPopulation@50 0.1
+org.apache.commons.math3.genetics.ListPopulation@60 0.09

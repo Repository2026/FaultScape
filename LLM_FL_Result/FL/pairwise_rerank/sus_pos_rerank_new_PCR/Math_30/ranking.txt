@@ -1,0 +1,10 @@
+org.apache.commons.math3.stat.inference.MannWhitneyUTest@231 0.55
+org.apache.commons.math3.special.Erf@70 0.4551724137931033
+org.apache.commons.math3.stat.inference.MannWhitneyUTest@179 0.4465517241379309
+org.apache.commons.math3.stat.inference.MannWhitneyUTest@173 0.36034482758620684
+org.apache.commons.math3.special.Gamma@155 0.3258620689655172
+org.apache.commons.math3.distribution.NormalDistribution@138 0.2655172413793103
+org.apache.commons.math3.stat.ranking.NaturalRanking@225 0.26120689655172413
+org.apache.commons.math3.distribution.NormalDistribution@141 0.19655172413793104
+org.apache.commons.math3.util.FastMath@3539 0.1
+org.apache.commons.math3.util.FastMath@3538 0.08448275862068966

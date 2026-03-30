@@ -1,0 +1,10 @@
+org.apache.commons.math.optimization.linear.SimplexTableau@365 0.55
+org.apache.commons.math.optimization.linear.SimplexTableau@337 0.4844262295081968
+org.apache.commons.math.optimization.linear.SimplexTableau@347 0.37786885245901647
+org.apache.commons.math.optimization.linear.SimplexTableau@346 0.37786885245901647
+org.apache.commons.math.optimization.linear.SimplexTableau@338 0.3532786885245902
+org.apache.commons.math.optimization.linear.SimplexTableau@344 0.2877049180327869
+org.apache.commons.math.optimization.linear.SimplexTableau@351 0.24672131147540993
+org.apache.commons.math.linear.Array2DRowRealMatrix@283 0.21393442622950826
+org.apache.commons.math.linear.Array2DRowRealMatrix@74 0.1
+org.apache.commons.math.linear.Array2DRowRealMatrix@525 0.09918032786885247

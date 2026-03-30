@@ -1,0 +1,10 @@
+org.apache.commons.math3.optimization.linear.SimplexSolver@120 0.55
+org.apache.commons.math3.optimization.linear.SimplexSolver@123 0.5423076923076924
+org.apache.commons.math3.optimization.linear.SimplexSolver@122 0.40384615384615385
+org.apache.commons.math3.optimization.linear.SimplexTableau@521 0.3423076923076923
+org.apache.commons.math3.optimization.linear.SimplexSolver@121 0.2961538461538462
+org.apache.commons.math3.optimization.linear.SimplexSolver@143 0.23461538461538467
+org.apache.commons.math3.exception.MaxCountExceededException@54 0.18230769230769234
+org.apache.commons.math3.optimization.linear.SimplexTableau@342 0.15000000000000002
+org.apache.commons.math3.optimization.linear.SimplexSolver@144 0.11153846153846156
+org.apache.commons.math3.optimization.linear.SimplexTableau@513 0.1

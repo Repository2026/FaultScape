@@ -1,0 +1,10 @@
+org.apache.commons.lang.Entities@831 0.55
+org.apache.commons.lang.Entities@833 0.5002923976608188
+org.apache.commons.lang.Entities@832 0.431578947368421
+org.apache.commons.lang.StringEscapeUtils@504 0.42280701754385963
+org.apache.commons.lang.Entities@834 0.28391812865497074
+org.apache.commons.lang.StringEscapeUtils@459 0.1961988304093567
+org.apache.commons.lang.StringEscapeUtils@455 0.1742690058479532
+org.apache.commons.lang.StringEscapeUtils@501 0.16695906432748536
+org.apache.commons.lang.StringEscapeUtils@498 0.10847953216374269
+org.apache.commons.lang.Entities@536 0.1

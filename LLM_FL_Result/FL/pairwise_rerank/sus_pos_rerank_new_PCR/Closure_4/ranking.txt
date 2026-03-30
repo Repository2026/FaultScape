@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeCheck@1619 0.55
+com.google.javascript.jscomp.parsing.JsDocInfoParser@449 0.534149855907781
+com.google.javascript.rhino.jstype.NamedType@190 0.41167146974063396
+com.google.javascript.rhino.jstype.ObjectType@182 0.3381844380403458
+com.google.javascript.rhino.JSDocInfo@1286 0.3381844380403458
+com.google.javascript.rhino.jstype.NamedType@197 0.2877521613832853
+com.google.javascript.rhino.jstype.ObjectType@196 0.2157060518731988
+com.google.javascript.jscomp.ProcessClosurePrimitives@243 0.16527377521613834
+com.google.javascript.jscomp.ClosureCodingConvention@319 0.10763688760806917
+com.google.javascript.jscomp.ClosureCodingConvention@318 0.09322766570605187

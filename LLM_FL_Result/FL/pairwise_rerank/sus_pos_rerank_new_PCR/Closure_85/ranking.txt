@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ControlFlowAnalysis@582 0.55
+com.google.javascript.jscomp.UnreachableCodeElimination@183 0.47296072507552867
+com.google.javascript.jscomp.parsing.IRFactory@731 0.41253776435045314
+com.google.javascript.jscomp.parsing.IRFactory@730 0.32945619335347426
+com.google.javascript.rhino.Node@1369 0.306797583081571
+com.google.javascript.jscomp.UnreachableCodeElimination@103 0.29169184290030215
+com.google.javascript.jscomp.UnreachableCodeElimination@195 0.20861027190332326
+com.google.javascript.jscomp.parsing.IRFactory@558 0.15574018126888217
+com.google.javascript.jscomp.NodeTraversal@230 0.1
+com.google.javascript.jscomp.ControlFlowAnalysis@662 0.1

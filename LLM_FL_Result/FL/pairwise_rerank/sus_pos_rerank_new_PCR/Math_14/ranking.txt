@@ -1,0 +1,10 @@
+org.apache.commons.math3.linear.BlockRealMatrix@107 0.55
+org.apache.commons.math3.fitting.PolynomialFitter@68 0.4311881188118812
+org.apache.commons.math3.linear.BlockRealMatrix@271 0.4237623762376238
+org.apache.commons.math3.fitting.CurveFitter@136 0.37425742574257426
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@78 0.27400990099009903
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@79 0.19851485148514852
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@72 0.12425742574257426
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@135 0.11188118811881188
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@132 0.1
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction@136 0.08712871287128712

@@ -1,0 +1,10 @@
+org.apache.commons.math.stat.inference.ChiSquareTestImpl@98 0.55
+org.apache.commons.math.stat.inference.ChiSquareTestImpl@66 0.48711656441717793
+org.apache.commons.math.stat.inference.ChiSquareTestImpl@77 0.4871165644171779
+org.apache.commons.math.stat.inference.ChiSquareTestImpl@97 0.47331288343558287
+org.apache.commons.math.stat.inference.ChiSquareTestImpl@70 0.4196319018404908
+org.apache.commons.math.distribution.ChiSquaredDistributionImpl@63 0.295398773006135
+org.apache.commons.math.distribution.ChiSquaredDistributionImpl@43 0.1726993865030675
+org.apache.commons.math.stat.inference.ChiSquareTestImpl@351 0.15736196319018406
+org.apache.commons.math.distribution.GammaDistributionImpl@131 0.1
+org.apache.commons.math.distribution.GammaDistributionImpl@111 0.06533742331288345

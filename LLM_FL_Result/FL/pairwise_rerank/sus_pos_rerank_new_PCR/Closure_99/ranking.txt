@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CheckGlobalThis@129 0.55
+com.google.javascript.jscomp.CheckGlobalThis@103 0.4875
+com.google.javascript.jscomp.CheckGlobalThis@139 0.4875
+com.google.javascript.jscomp.CheckGlobalThis@90 0.471875
+com.google.javascript.jscomp.CheckGlobalThis@140 0.36406250000000007
+com.google.javascript.jscomp.parsing.IRFactory@675 0.27656250000000004
+com.google.javascript.jscomp.BasicErrorManager@47 0.23750000000000004
+com.google.javascript.jscomp.parsing.IRFactory@955 0.22187500000000004
+com.google.javascript.rhino.JSDocInfo@365 0.1
+com.google.javascript.jscomp.parsing.IRFactory@594 0.096875

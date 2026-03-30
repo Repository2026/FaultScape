@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ScopedAliases@236 0.55
+com.google.javascript.jscomp.ScopedAliases@418 0.4701995012468828
+com.google.javascript.jscomp.ScopedAliases@601 0.34925187032418953
+com.google.javascript.jscomp.ScopedAliases@580 0.30685785536159604
+com.google.javascript.jscomp.ScopedAliases@582 0.29937655860349127
+com.google.javascript.jscomp.ScopedAliases@566 0.25074812967581045
+com.google.javascript.jscomp.ScopedAliases@592 0.19962593516209481
+com.google.javascript.jscomp.ScopedAliases@599 0.1871571072319202
+com.google.javascript.jscomp.NodeUtil@2395 0.09987531172069826
+com.google.javascript.jscomp.ScopedAliases@594 0.09364089775561098

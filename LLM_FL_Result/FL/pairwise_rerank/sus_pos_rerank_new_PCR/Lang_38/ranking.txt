@@ -1,0 +1,10 @@
+org.apache.commons.lang3.time.FastDateFormat@1423 0.55
+org.apache.commons.lang3.time.FastDateFormat@182 0.38904109589041097
+org.apache.commons.lang3.time.FastDateFormat@873 0.33767123287671236
+org.apache.commons.lang3.time.FastDateFormat@642 0.3102739726027397
+org.apache.commons.lang3.time.FastDateFormat@1300 0.24178082191780825
+org.apache.commons.lang3.time.FastDateFormat@872 0.23493150684931507
+org.apache.commons.lang3.time.FastDateFormat@1303 0.15958904109589042
+org.apache.commons.lang3.time.FastDateFormat@1430 0.15273972602739727
+org.apache.commons.lang3.time.FastDateFormat@1310 0.1
+org.apache.commons.lang3.time.FastDateFormat@1301 0.09794520547945205

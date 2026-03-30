@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1330 0.55
+com.google.javascript.jscomp.TypeInference@921 0.41818851251840944
+com.google.javascript.jscomp.ConvertToDottedProperties@50 0.38136966126656846
+com.google.javascript.rhino.jstype.FunctionType@675 0.3592783505154639
+com.google.javascript.jscomp.MemoizedScopeCreator@56 0.30773195876288656
+com.google.javascript.rhino.jstype.FunctionType@664 0.3003681885125184
+com.google.javascript.jscomp.TypeInference@929 0.24145802650957288
+com.google.javascript.jscomp.TypeCheck@1238 0.13836524300441827
+com.google.javascript.rhino.ScriptOrFnNode@77 0.1
+com.google.javascript.rhino.ScriptOrFnNode@54 0.09418262150220913

@@ -1,0 +1,10 @@
+org.apache.commons.lang.SerializationUtils@108 0.55
+org.apache.commons.lang.SerializationUtils@111 0.46666666666666656
+org.apache.commons.lang.SerializationUtils@107 0.41607142857142854
+org.apache.commons.lang.SerializationUtils@133 0.41607142857142854
+org.apache.commons.lang.time.FastDateFormat@214 0.3625
+org.apache.commons.lang.time.FastDateFormat@167 0.29553571428571423
+org.apache.commons.lang.time.FastDateFormat@553 0.25089285714285714
+org.apache.commons.lang.exception.NestableRuntimeException@82 0.1
+org.apache.commons.lang.SerializationUtils@101 0.09464285714285714
+org.apache.commons.lang.SerializationUtils@132 0.09464285714285714

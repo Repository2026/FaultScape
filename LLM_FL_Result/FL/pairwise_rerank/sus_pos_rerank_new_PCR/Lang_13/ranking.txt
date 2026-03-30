@@ -1,0 +1,10 @@
+org.apache.commons.lang3.SerializationUtils@99 0.55
+org.apache.commons.lang3.SerializationUtils@268 0.4965894465894466
+org.apache.commons.lang3.SerializationUtils@88 0.4386743886743886
+org.apache.commons.lang3.SerializationUtils@98 0.327992277992278
+org.apache.commons.lang3.SerializationUtils@95 0.2823037323037323
+org.apache.commons.lang3.SerializationUtils@267 0.27007722007722007
+org.apache.commons.lang3.SerializationUtils@83 0.26492921492921495
+org.apache.commons.lang3.SerializationUtils@103 0.20572715572715572
+org.apache.commons.lang3.SerializationException@75 0.10148005148005149
+org.apache.commons.lang3.SerializationException@76 0.1

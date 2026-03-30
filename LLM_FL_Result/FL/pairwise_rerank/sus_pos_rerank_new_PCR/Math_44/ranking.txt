@@ -1,0 +1,10 @@
+org.apache.commons.math.ode.AbstractIntegrator@317 0.55
+org.apache.commons.math.ode.events.EventState@339 0.4917910447761193
+org.apache.commons.math.ode.AbstractIntegrator@128 0.4156716417910447
+org.apache.commons.math.ode.events.EventState@229 0.4082089552238805
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@211 0.3649253731343283
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@169 0.23656716417910445
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@213 0.2291044776119403
+org.apache.commons.math.ode.nonstiff.AdaptiveStepsizeIntegrator@209 0.2216417910447761
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@251 0.10970149253731343
+org.apache.commons.math.util.FastMath@3375 0.1

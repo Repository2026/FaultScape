@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CheckAccessControls@416 0.55
+com.google.javascript.jscomp.CheckAccessControls@444 0.5061855670103094
+com.google.javascript.jscomp.CheckAccessControls@454 0.4417525773195876
+com.google.javascript.jscomp.parsing.JsDocInfoParser@675 0.3012886597938145
+com.google.javascript.jscomp.CheckAccessControls@359 0.2561855670103093
+com.google.javascript.jscomp.CheckAccessControls@380 0.1981958762886598
+com.google.javascript.rhino.JSDocInfoBuilder@215 0.17242268041237113
+com.google.javascript.jscomp.NodeTraversal@595 0.1
+com.google.javascript.jscomp.CheckAccessControls@640 0.09510309278350515
+com.google.javascript.jscomp.NodeTraversal@599 0.088659793814433

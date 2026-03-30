@@ -1,0 +1,10 @@
+org.apache.commons.math.linear.OpenMapRealVector@500 0.55
+org.apache.commons.math.linear.ArrayRealVector@721 0.46228070175438596
+org.apache.commons.math.linear.OpenMapRealVector@503 0.46228070175438596
+org.apache.commons.math.linear.AbstractRealVector@223 0.20037593984962404
+org.apache.commons.math.linear.AbstractRealVector@211 0.17531328320802003
+org.apache.commons.math.linear.AbstractRealVector@210 0.16904761904761906
+org.apache.commons.math.linear.AbstractRealVector@222 0.13145363408521302
+org.apache.commons.math.linear.AbstractRealVector@226 0.11892230576441103
+org.apache.commons.math.linear.AbstractRealVector@228 0.09385964912280702
+org.apache.commons.math.linear.OpenMapRealVector@875 0.08759398496240602

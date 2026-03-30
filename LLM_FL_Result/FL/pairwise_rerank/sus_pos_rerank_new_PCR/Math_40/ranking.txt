@@ -1,0 +1,10 @@
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@235 0.55
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@260 0.44005235602094245
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver@296 0.437434554973822
+org.apache.commons.math.util.Incrementor@151 0.3183246073298429
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@316 0.25942408376963355
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@318 0.2149214659685864
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver@154 0.21361256544502621
+org.apache.commons.math.exception.MaxCountExceededException@54 0.15471204188481677
+org.apache.commons.math.exception.TooManyEvaluationsException@38 0.1481675392670157
+org.apache.commons.math.exception.MathIllegalStateException@46 0.1

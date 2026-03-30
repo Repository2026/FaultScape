@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.InlineObjectLiterals@169 0.55
+com.google.javascript.jscomp.InlineObjectLiterals@185 0.4875
+com.google.javascript.jscomp.InlineObjectLiterals@220 0.4875
+com.google.javascript.jscomp.InlineObjectLiterals@140 0.425
+com.google.javascript.jscomp.InlineObjectLiterals@104 0.425
+com.google.javascript.jscomp.InlineObjectLiterals@257 0.28437500000000004
+com.google.javascript.rhino.Node@1411 0.2296875
+com.google.javascript.rhino.Node@1427 0.17500000000000004
+com.google.javascript.jscomp.GoogleCodingConvention@141 0.11250000000000002
+com.google.javascript.rhino.Node@2330 0.1

@@ -1,0 +1,10 @@
+org.jfree.chart.plot.MultiplePiePlot@146 0.55
+org.jfree.data.general.AbstractDataset@161 0.5484423676012462
+org.jfree.data.general.AbstractDataset@160 0.416043613707165
+org.jfree.chart.plot.MultiplePiePlot@147 0.3848909657320872
+org.jfree.chart.plot.MultiplePiePlot@151 0.35529595015576326
+org.jfree.chart.plot.MultiplePiePlot@145 0.3537383177570093
+org.jfree.chart.plot.MultiplePiePlot@148 0.2369158878504673
+org.jfree.chart.plot.MultiplePiePlot@166 0.17461059190031153
+org.jfree.chart.JFreeChart@642 0.1
+org.jfree.chart.JFreeChart@571 0.09672897196261682

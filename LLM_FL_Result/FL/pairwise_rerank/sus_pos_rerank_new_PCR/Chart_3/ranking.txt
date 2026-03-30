@@ -1,0 +1,10 @@
+org.jfree.data.time.TimeSeries@1059 0.55
+org.jfree.data.time.TimeSeries@1057 0.5291044776119402
+org.jfree.data.time.TimeSeries@1060 0.39477611940298496
+org.jfree.data.time.TimeSeries@1058 0.385820895522388
+org.jfree.data.time.TimeSeries@1056 0.3783582089552238
+org.jfree.data.time.TimeSeries@1062 0.36492537313432827
+org.jfree.data.time.TimeSeries@1050 0.24402985074626865
+org.jfree.data.time.TimeSeries@1053 0.16940298507462687
+org.jfree.data.general.Series@244 0.1
+org.jfree.data.general.Series@243 0.09477611940298507

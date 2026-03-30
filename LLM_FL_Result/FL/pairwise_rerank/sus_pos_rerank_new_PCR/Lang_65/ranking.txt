@@ -1,0 +1,10 @@
+org.apache.commons.lang.time.DateUtils@547 0.55
+org.apache.commons.lang.time.DateUtils@549 0.47287234042553195
+org.apache.commons.lang.time.DateUtils@548 0.44361702127659575
+org.apache.commons.lang.time.DateUtils@546 0.39973404255319156
+org.apache.commons.lang.time.DateUtils@543 0.3292553191489362
+org.apache.commons.lang.time.DateUtils@702 0.22287234042553195
+org.apache.commons.lang.time.DateUtils@709 0.19627659574468087
+org.apache.commons.lang.time.DateUtils@701 0.14308510638297872
+org.apache.commons.lang.time.DateUtils@667 0.1
+org.apache.commons.lang.time.DateUtils@620 0.0898936170212766

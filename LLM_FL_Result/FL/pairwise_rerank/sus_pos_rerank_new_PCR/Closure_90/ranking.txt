@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.FunctionTypeBuilder@412 0.55
+com.google.javascript.jscomp.TypedScopeCreator@1466 0.4888297872340425
+com.google.javascript.jscomp.parsing.JsDocInfoParser@760 0.42234042553191486
+com.google.javascript.rhino.JSDocInfoBuilder@469 0.32593085106382974
+com.google.javascript.rhino.jstype.JSTypeRegistry@1378 0.27074468085106385
+com.google.javascript.rhino.jstype.NamedType@219 0.25611702127659575
+com.google.javascript.rhino.JSDocInfoBuilder@470 0.20957446808510638
+com.google.javascript.rhino.JSDocInfo@985 0.10319148936170214
+com.google.javascript.rhino.jstype.JSTypeRegistry@735 0.1
+com.google.javascript.rhino.jstype.JSTypeRegistry@1376 0.0898936170212766

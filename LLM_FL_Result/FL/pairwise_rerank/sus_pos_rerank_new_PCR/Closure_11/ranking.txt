@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeCheck@1314 0.55
+com.google.javascript.jscomp.TypeInference@1165 0.43934426229508194
+com.google.javascript.jscomp.TypeInference@259 0.37786885245901636
+com.google.javascript.jscomp.ControlFlowAnalysis@352 0.31639344262295077
+com.google.javascript.jscomp.TypeInference@1258 0.31639344262295077
+com.google.javascript.jscomp.TypeInference@251 0.2480874316939891
+com.google.javascript.jscomp.TypeInference@448 0.2139344262295082
+com.google.javascript.jscomp.TypeInference@249 0.20710382513661202
+com.google.javascript.jscomp.ControlFlowAnalysis@670 0.14562841530054643
+com.google.javascript.jscomp.TypeInference@1142 0.1

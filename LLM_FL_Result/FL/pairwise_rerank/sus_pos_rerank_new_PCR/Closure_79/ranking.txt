@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.SyntacticScopeCreator@238 0.55
+com.google.javascript.jscomp.SyntacticScopeCreator@162 0.3396174863387978
+com.google.javascript.jscomp.Compiler@944 0.32322404371584695
+com.google.javascript.jscomp.VarCheck@251 0.32322404371584695
+com.google.javascript.jscomp.VarCheck@242 0.3095628415300546
+com.google.javascript.jscomp.VarCheck@252 0.3095628415300546
+com.google.javascript.jscomp.SyntacticScopeCreator@122 0.2719945355191257
+com.google.javascript.jscomp.SyntacticScopeCreator@124 0.2139344262295082
+com.google.javascript.jscomp.NodeTraversal@261 0.10464480874316939
+com.google.javascript.rhino.Node@1383 0.1

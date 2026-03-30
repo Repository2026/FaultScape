@@ -1,0 +1,10 @@
+org.apache.commons.lang.ClassUtils@201 0.55
+org.apache.commons.lang.ClassUtils@197 0.5096774193548388
+org.apache.commons.lang.ClassUtils@170 0.503225806451613
+org.apache.commons.lang.ClassUtils@172 0.47096774193548396
+org.apache.commons.lang.ClassUtils@232 0.23548387096774193
+org.apache.commons.lang.ClassUtils@252 0.1467741935483871
+org.apache.commons.lang.ClassUtils@256 0.11451612903225808
+org.apache.commons.lang.ClassUtils@229 0.1
+org.apache.commons.lang.ClassUtils@253 0.1
+org.apache.commons.lang.ClassUtils@230 0.09838709677419355

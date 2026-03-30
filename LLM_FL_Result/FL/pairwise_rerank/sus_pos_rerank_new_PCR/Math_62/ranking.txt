@@ -1,0 +1,10 @@
+org.apache.commons.math.optimization.univariate.BrentOptimizer@154 0.55
+org.apache.commons.math.optimization.univariate.BrentOptimizer@223 0.5283783783783784
+org.apache.commons.math.optimization.univariate.BrentOptimizer@114 0.4810810810810811
+org.apache.commons.math.optimization.univariate.MultiStartUnivariateRealOptimizer@201 0.3
+org.apache.commons.math.util.MathUtils@417 0.27297297297297296
+org.apache.commons.math.util.MathUtils@481 0.2189189189189189
+org.apache.commons.math.util.MathUtils@482 0.16486486486486487
+org.apache.commons.math.util.MathUtils@489 0.10405405405405406
+org.apache.commons.math.util.MathUtils@488 0.1
+org.apache.commons.math.util.MathUtils@492 0.1

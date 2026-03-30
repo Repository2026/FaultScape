@@ -1,0 +1,10 @@
+org.jfree.chart.renderer.category.StatisticalBarRenderer@315 0.55
+org.jfree.data.statistics.DefaultStatisticalCategoryDataset@108 0.5413294797687861
+org.jfree.chart.plot.CategoryPlot@2868 0.46907514450867044
+org.jfree.chart.JFreeChart@1393 0.4040462427745664
+org.jfree.data.KeyedObjects@163 0.3679190751445086
+org.jfree.chart.renderer.category.StatisticalBarRenderer@208 0.2812138728323699
+org.jfree.chart.plot.CategoryPlot@2558 0.1583815028901734
+org.jfree.chart.plot.CategoryPlot@2559 0.15115606936416182
+org.jfree.chart.util.RectangleInsets@512 0.1
+org.jfree.chart.util.RectangleInsets@524 0.1

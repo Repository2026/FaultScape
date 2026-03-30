@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@392 0.55
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@112 0.4805555555555556
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@345 0.38333333333333336
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@295 0.3208333333333333
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@358 0.3138888888888889
+com.google.javascript.jscomp.ControlFlowAnalysis@544 0.2791666666666667
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@326 0.27222222222222225
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@461 0.20972222222222225
+com.google.javascript.rhino.Node@2234 0.1
+com.google.javascript.jscomp.GoogleCodingConvention@141 0.09166666666666667

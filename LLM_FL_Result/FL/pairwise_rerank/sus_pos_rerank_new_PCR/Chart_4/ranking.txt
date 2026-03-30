@@ -1,0 +1,10 @@
+org.jfree.chart.plot.XYPlot@646 0.55
+org.jfree.chart.plot.XYPlot@4470 0.5352941176470588
+org.jfree.chart.axis.NumberAxis@426 0.47794117647058826
+org.jfree.chart.axis.Axis@1043 0.3955882352941176
+org.jfree.chart.plot.XYPlot@4472 0.34411764705882353
+org.jfree.chart.axis.ValueAxis@283 0.26323529411764707
+org.jfree.chart.util.AbstractObjectList@161 0.1
+org.jfree.chart.axis.ValueAxis@951 0.1
+org.jfree.chart.util.AbstractObjectList@162 0.09411764705882353
+org.jfree.chart.util.AbstractObjectList@163 0.09411764705882353

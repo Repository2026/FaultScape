@@ -1,0 +1,10 @@
+org.joda.time.chrono.BasicChronology@518 0.55
+org.joda.time.chrono.BasicChronology@329 0.5008196721311475
+org.joda.time.chrono.BasicChronology@328 0.4532786885245902
+org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField@54 0.4434426229508196
+org.joda.time.chrono.GJChronology@338 0.37786885245901636
+org.joda.time.chrono.BasicChronology@508 0.34508196721311474
+org.joda.time.LocalDate@1735 0.16475409836065574
+org.joda.time.LocalDate@570 0.1
+org.joda.time.LocalDate@515 0.1
+org.joda.time.LocalDate@576 0.09918032786885245

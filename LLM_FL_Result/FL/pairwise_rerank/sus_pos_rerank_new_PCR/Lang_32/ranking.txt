@@ -1,0 +1,10 @@
+org.apache.commons.lang3.builder.HashCodeBuilder@522 0.55
+org.apache.commons.lang3.builder.HashCodeBuilder@174 0.5333836858006042
+org.apache.commons.lang3.builder.HashCodeBuilder@538 0.48051359516616304
+org.apache.commons.lang3.builder.HashCodeBuilder@152 0.4654078549848942
+org.apache.commons.lang3.builder.HashCodeBuilder@362 0.30679758308157096
+org.apache.commons.lang3.builder.HashCodeBuilder@181 0.2992447129909365
+org.apache.commons.lang3.builder.HashCodeBuilder@400 0.22371601208459213
+org.apache.commons.lang3.builder.HashCodeBuilder@360 0.17839879154078553
+org.apache.commons.lang3.builder.IDKey@73 0.1
+org.apache.commons.lang3.builder.IDKey@69 0.1

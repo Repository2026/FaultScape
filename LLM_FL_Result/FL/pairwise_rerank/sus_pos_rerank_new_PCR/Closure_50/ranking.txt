@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.PeepholeReplaceKnownMethods@433 0.55
+com.google.javascript.jscomp.PeepholeReplaceKnownMethods@376 0.47782152230971126
+com.google.javascript.jscomp.PeepholeReplaceKnownMethods@384 0.43845144356955384
+com.google.javascript.jscomp.PeepholeReplaceKnownMethods@49 0.31246719160104985
+com.google.javascript.rhino.Node@1567 0.2599737532808399
+com.google.javascript.rhino.Node@1596 0.20748031496062996
+com.google.javascript.jscomp.parsing.IRFactory@417 0.20223097112860894
+com.google.javascript.rhino.Node@1782 0.1877952755905512
+com.google.javascript.rhino.Node@1609 0.15498687664041993
+com.google.javascript.jscomp.NodeUtil@1519 0.1

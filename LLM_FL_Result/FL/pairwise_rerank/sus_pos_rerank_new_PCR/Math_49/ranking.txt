@@ -1,0 +1,10 @@
+org.apache.commons.math.linear.OpenMapRealVector@666 0.55
+org.apache.commons.math.linear.OpenMapRealVector@664 0.4660493827160493
+org.apache.commons.math.util.OpenIntToDoubleHashMap@399 0.37098765432098757
+org.apache.commons.math.util.OpenIntToDoubleHashMap@357 0.3277777777777777
+org.apache.commons.math.util.OpenIntToDoubleHashMap@212 0.22901234567901235
+org.apache.commons.math.util.OpenIntToDoubleHashMap@356 0.22283950617283949
+org.apache.commons.math.util.OpenIntToDoubleHashMap@259 0.16728395061728393
+org.apache.commons.math.util.OpenIntToDoubleHashMap@518 0.12407407407407406
+org.apache.commons.math.util.OpenIntToDoubleHashMap@385 0.08703703703703702
+org.apache.commons.math.linear.OpenMapRealVector@220 0.08703703703703702

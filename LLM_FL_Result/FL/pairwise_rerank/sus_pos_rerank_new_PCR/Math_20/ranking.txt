@@ -1,0 +1,10 @@
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@935 0.55
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@994 0.42464788732394376
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@995 0.37394366197183104
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@949 0.3119718309859156
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@911 0.31056338028169017
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@992 0.2190140845070423
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@1012 0.19084507042253523
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@247 0.1626760563380282
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@909 0.1626760563380282
+org.apache.commons.math3.optimization.direct.CMAESOptimizer@910 0.1415492957746479

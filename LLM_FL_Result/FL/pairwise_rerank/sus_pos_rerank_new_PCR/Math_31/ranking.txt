@@ -1,0 +1,10 @@
+org.apache.commons.math3.distribution.FDistribution@150 0.55
+org.apache.commons.math3.special.Beta@154 0.3816582914572864
+org.apache.commons.math3.special.Beta@129 0.2962311557788945
+org.apache.commons.math3.special.Beta@128 0.2585427135678392
+org.apache.commons.math3.special.Beta@201 0.2541457286432161
+org.apache.commons.math3.distribution.FDistribution@233 0.25100502512562817
+org.apache.commons.math3.distribution.FDistribution@145 0.1442211055276382
+org.apache.commons.math3.analysis.solvers.BaseAbstractUnivariateSolver@195 0.1379396984924623
+org.apache.commons.math3.distribution.FDistribution@194 0.12537688442211053
+org.apache.commons.math3.util.Precision@265 0.1

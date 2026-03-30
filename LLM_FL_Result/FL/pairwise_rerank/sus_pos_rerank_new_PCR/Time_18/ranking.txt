@@ -1,0 +1,10 @@
+org.joda.time.chrono.BasicChronology@605 0.55
+org.joda.time.field.FieldUtils@232 0.5046703296703297
+org.joda.time.field.FieldUtils@233 0.36043956043956044
+org.joda.time.chrono.GregorianChronology@197 0.3315934065934065
+org.joda.time.chrono.BasicGJChronology@120 0.2835164835164835
+org.joda.time.chrono.BasicGJChronology@123 0.27802197802197803
+org.joda.time.IllegalFieldValueException@108 0.15989010989010988
+org.joda.time.IllegalFieldValueException@53 0.11181318681318682
+org.joda.time.IllegalFieldValueException@41 0.1
+org.joda.time.chrono.GJChronology@199 0.09807692307692308

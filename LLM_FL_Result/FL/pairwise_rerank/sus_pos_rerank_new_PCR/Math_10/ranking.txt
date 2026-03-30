@@ -1,0 +1,10 @@
+org.apache.commons.math3.analysis.differentiation.DerivativeStructure@758 0.55
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1397 0.4601123595505618
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1399 0.45730337078651684
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1392 0.4292134831460674
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1388 0.3449438202247191
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1401 0.2887640449438202
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1391 0.2353932584269663
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1349 0.1707865168539326
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1357 0.10617977528089888
+org.apache.commons.math3.analysis.differentiation.DSCompiler@1368 0.1

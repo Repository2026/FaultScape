@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.CodeGenerator@111 0.55
+com.google.javascript.jscomp.CodeGenerator@116 0.47213114754098356
+com.google.javascript.jscomp.CodeGenerator@98 0.4653005464480874
+com.google.javascript.jscomp.CodeGenerator@106 0.40382513661202185
+com.google.javascript.jscomp.CodeGenerator@102 0.3628415300546448
+com.google.javascript.jscomp.CodeGenerator@884 0.3396174863387978
+com.google.javascript.rhino.Node@381 0.16748633879781422
+com.google.javascript.rhino.Node@367 0.15245901639344261
+com.google.javascript.jscomp.NodeUtil@1196 0.13879781420765025
+com.google.javascript.jscomp.CodeGenerator@1176 0.1

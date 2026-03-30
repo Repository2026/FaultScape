@@ -1,0 +1,10 @@
+org.joda.time.format.PeriodFormatterBuilder@1557 0.55
+org.joda.time.Period@226 0.5216981132075472
+org.joda.time.format.FormatUtils@236 0.5028301886792453
+org.joda.time.format.FormatUtils@251 0.47452830188679246
+org.joda.time.Period@968 0.42735849056603775
+org.joda.time.Period@967 0.23867924528301887
+org.joda.time.Period@212 0.21037735849056605
+org.joda.time.format.PeriodFormatterBuilder@1636 0.19150943396226416
+org.joda.time.Period@110 0.18207547169811322
+org.joda.time.format.PeriodFormatterBuilder@1553 0.12547169811320757

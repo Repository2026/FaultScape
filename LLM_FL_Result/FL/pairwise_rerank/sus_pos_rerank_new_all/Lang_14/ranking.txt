@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringUtils@785 1.6000000000
+org.apache.commons.lang3.StringUtils@788 1.5423076923
+org.apache.commons.lang3.StringUtils@782 1.3980769231
+org.apache.commons.lang3.StringUtils@783 1.2153846154
+org.apache.commons.lang3.StringUtils@148 1.2000000000

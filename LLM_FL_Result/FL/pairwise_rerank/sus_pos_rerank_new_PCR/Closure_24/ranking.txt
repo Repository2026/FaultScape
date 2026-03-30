@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.ScopedAliases@278 0.55
+com.google.javascript.jscomp.ScopedAliases@337 0.45
+com.google.javascript.jscomp.ScopedAliases@279 0.39285714285714285
+com.google.javascript.jscomp.NodeUtil@446 0.30714285714285716
+com.google.javascript.jscomp.ScopedAliases@252 0.2785714285714286
+com.google.javascript.jscomp.NodeTraversal@682 0.2642857142857143
+com.google.javascript.jscomp.NodeUtil@433 0.18571428571428572
+com.google.javascript.jscomp.AstValidator@750 0.13571428571428573
+com.google.javascript.jscomp.AstValidator@751 0.1
+com.google.javascript.jscomp.parsing.IRFactory@1177 0.1

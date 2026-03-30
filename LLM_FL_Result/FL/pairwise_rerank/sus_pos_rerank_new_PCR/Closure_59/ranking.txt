@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.Compiler@256 0.55
+com.google.javascript.jscomp.CheckGlobalThis@155 0.4149815043156596
+com.google.javascript.jscomp.DefaultPassConfig@715 0.4014180024660912
+com.google.javascript.jscomp.CheckGlobalThis@85 0.3471639950678175
+com.google.javascript.jscomp.DefaultPassConfig@246 0.2781134401972873
+com.google.javascript.jscomp.CheckGlobalThis@100 0.2226263871763255
+com.google.javascript.jscomp.DefaultPassConfig@245 0.16713933415536372
+com.google.javascript.jscomp.CheckGlobalThis@99 0.14247842170160296
+com.google.javascript.jscomp.WarningLevel@42 0.1
+com.google.javascript.jscomp.WarningLevel@79 0.09932182490752157

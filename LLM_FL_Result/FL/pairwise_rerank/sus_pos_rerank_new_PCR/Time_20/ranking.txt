@@ -1,0 +1,10 @@
+org.joda.time.format.DateTimeFormatter@866 0.55
+org.joda.time.format.FormatUtils@373 0.4620111731843574
+org.joda.time.format.DateTimeFormatterBuilder@2541 0.4089385474860334
+org.joda.time.format.DateTimeFormatterBuilder@2542 0.3886871508379887
+org.joda.time.format.DateTimeFormatterBuilder@1030 0.28044692737430166
+org.joda.time.format.DateTimeFormatterBuilder@2519 0.27346368715083796
+org.joda.time.format.DateTimeFormat@457 0.2594972067039106
+org.joda.time.format.DateTimeFormat@465 0.16173184357541898
+org.joda.time.base.BaseDateTime@223 0.1
+org.joda.time.format.DateTimeFormatterBuilder@1094 0.09189944134078212

@@ -1,0 +1,10 @@
+org.apache.commons.math.util.ContinuedFraction@152 0.55
+org.apache.commons.math.util.ContinuedFraction@169 0.5333795013850415
+org.apache.commons.math.distribution.NormalDistributionImpl@127 0.4807479224376731
+org.apache.commons.math.special.Erf@51 0.3990304709141274
+org.apache.commons.math.special.Gamma@170 0.32977839335180054
+org.apache.commons.math.util.ContinuedFraction@170 0.2868421052631579
+org.apache.commons.math.util.ContinuedFraction@153 0.23282548476454296
+org.apache.commons.math.util.ContinuedFraction@159 0.23144044321329638
+org.apache.commons.math.special.Gamma@173 0.1054016620498615
+org.apache.commons.math.util.FastMath@3491 0.1

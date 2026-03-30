@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.RemoveUnusedVars@396 0.55
+com.google.javascript.rhino.Node@1411 0.45625
+com.google.javascript.jscomp.RemoveUnusedVars@824 0.4335227272727272
+com.google.javascript.jscomp.RemoveUnusedVars@831 0.3340909090909091
+com.google.javascript.jscomp.RemoveUnusedVars@750 0.31988636363636364
+com.google.javascript.jscomp.RemoveUnusedVars@380 0.2857954545454545
+com.google.javascript.jscomp.RemoveUnusedVars@206 0.2772727272727273
+com.google.javascript.rhino.Node@1427 0.22045454545454546
+com.google.javascript.rhino.Node@1440 0.15653409090909093
+com.google.javascript.jscomp.NodeUtil@2137 0.1

@@ -1,0 +1,10 @@
+org.apache.commons.math3.distribution.FDistribution@136 0.55
+org.apache.commons.math3.distribution.FDistribution@131 0.5241379310344827
+org.apache.commons.math3.distribution.FDistribution@258 0.45517241379310347
+org.apache.commons.math3.distribution.FDistribution@275 0.42931034482758623
+org.apache.commons.math3.distribution.UniformRealDistribution@184 0.2913793103448276
+org.apache.commons.math3.util.FastMath@1107 0.25689655172413794
+org.apache.commons.math3.util.FastMath@874 0.23965517241379314
+org.apache.commons.math3.util.FastMath@875 0.19655172413793104
+org.apache.commons.math3.special.Gamma@253 0.10172413793103449
+org.apache.commons.math3.util.FastMath@807 0.1

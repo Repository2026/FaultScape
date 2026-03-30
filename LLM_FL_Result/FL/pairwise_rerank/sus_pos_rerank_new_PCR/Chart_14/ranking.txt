@@ -1,0 +1,10 @@
+org.jfree.chart.plot.CategoryPlot@2448 0.55
+org.jfree.chart.plot.XYPlot@2529 0.5064606741573033
+org.jfree.chart.plot.CategoryPlot@2378 0.34494382022471914
+org.jfree.chart.plot.CategoryPlot@2166 0.3379213483146068
+org.jfree.chart.plot.XYPlot@2465 0.3308988764044944
+org.jfree.chart.plot.CategoryPlot@2440 0.2817415730337079
+org.jfree.chart.plot.XYPlot@2293 0.27471910112359554
+org.jfree.chart.plot.CategoryPlot@2122 0.10617977528089889
+org.jfree.chart.plot.XYPlot@2248 0.1
+org.jfree.chart.plot.CategoryPlot@2139 0.1

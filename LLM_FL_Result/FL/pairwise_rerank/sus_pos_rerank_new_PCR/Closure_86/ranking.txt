@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.NodeUtil@2416 0.55
+com.google.javascript.jscomp.PureFunctionIdentifier@270 0.4451612903225807
+com.google.javascript.jscomp.PureFunctionIdentifier@784 0.3967741935483871
+com.google.javascript.jscomp.PureFunctionIdentifier@493 0.3645161290322581
+com.google.javascript.jscomp.PureFunctionIdentifier@194 0.3564516129032258
+com.google.javascript.jscomp.PureFunctionIdentifier@202 0.2919354838709678
+com.google.javascript.rhino.Node@2166 0.1629032258064516
+com.google.javascript.rhino.JSDocInfo@1298 0.15483870967741936
+com.google.javascript.rhino.Node@2139 0.10645161290322581
+com.google.javascript.jscomp.PureFunctionIdentifier@998 0.09838709677419355

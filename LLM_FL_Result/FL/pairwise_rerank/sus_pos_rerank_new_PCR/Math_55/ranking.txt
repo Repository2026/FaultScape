@@ -1,0 +1,10 @@
+org.apache.commons.math.geometry.Vector3D@473 0.55
+org.apache.commons.math.geometry.Vector3D@96 0.2868064952638701
+org.apache.commons.math.geometry.Vector3D@95 0.2259133964817321
+org.apache.commons.math.geometry.Vector3D@189 0.22591339648173203
+org.apache.commons.math.geometry.Vector3D@197 0.21238159675236806
+org.apache.commons.math.geometry.Vector3D@94 0.21238159675236806
+org.apache.commons.math.geometry.Vector3D@53 0.15825439783491205
+org.apache.commons.math.geometry.Vector3D@181 0.11765899864682003
+org.apache.commons.math.geometry.Vector3D@69 0.10412719891745603
+org.apache.commons.math.geometry.Vector3D@93 0.1

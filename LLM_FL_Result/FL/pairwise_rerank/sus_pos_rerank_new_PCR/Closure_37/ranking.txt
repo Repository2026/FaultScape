@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.Compiler@1983 0.55
+com.google.javascript.jscomp.parsing.IRFactory@803 0.4301169590643274
+com.google.javascript.jscomp.NodeTraversal@257 0.40818713450292393
+com.google.javascript.jscomp.parsing.IRFactory@1072 0.40087719298245605
+com.google.javascript.jscomp.parsing.IRFactory@1066 0.3423976608187134
+com.google.javascript.jscomp.parsing.TypeSafeDispatcher@280 0.34239766081871337
+com.google.javascript.jscomp.Compiler@1987 0.29269005847953217
+com.google.javascript.jscomp.RhinoErrorReporter@119 0.16695906432748536
+com.google.javascript.jscomp.NodeTraversal@249 0.1523391812865497
+com.google.javascript.jscomp.JSError@99 0.1

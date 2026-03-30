@@ -1,0 +1,10 @@
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@587 0.55
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@529 0.49398907103825135
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@620 0.4407103825136612
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@386 0.3778688524590164
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@527 0.26311475409836066
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@610 0.20710382513661202
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@733 0.2002732240437159
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@384 0.1592896174863388
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@613 0.15245901639344261
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer@601 0.1

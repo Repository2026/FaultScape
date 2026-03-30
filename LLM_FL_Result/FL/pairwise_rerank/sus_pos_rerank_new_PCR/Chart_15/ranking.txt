@@ -1,0 +1,10 @@
+org.jfree.chart.JFreeChart@1219 0.55
+org.jfree.chart.plot.PiePlot@2051 0.5326666666666667
+org.jfree.chart.ChartFactory@694 0.438
+org.jfree.chart.plot.PiePlot3D@250 0.31666666666666665
+org.jfree.chart.ChartFactory@695 0.3033333333333333
+org.jfree.chart.plot.PiePlot3D@231 0.2966666666666667
+org.jfree.chart.plot.PiePlot3D@239 0.21000000000000002
+org.jfree.chart.plot.PiePlot3D@233 0.15000000000000002
+org.jfree.chart.plot.Plot@986 0.10333333333333333
+org.jfree.chart.title.TextTitle@477 0.1

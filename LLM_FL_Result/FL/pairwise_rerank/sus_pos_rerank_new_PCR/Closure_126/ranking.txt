@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.MinimizeExitPoints@143 0.55
+com.google.javascript.jscomp.MinimizeExitPoints@51 0.4897435897435897
+com.google.javascript.jscomp.MinimizeExitPoints@141 0.43141025641025643
+com.google.javascript.jscomp.NodeUtil@2790 0.36538461538461536
+com.google.javascript.jscomp.MinimizeExitPoints@285 0.30641025641025643
+com.google.javascript.jscomp.parsing.IRFactory@633 0.26153846153846155
+com.google.javascript.jscomp.MinimizeExitPoints@278 0.2038461538461539
+com.google.javascript.rhino.Node@1444 0.10897435897435898
+com.google.javascript.rhino.Node@1428 0.10128205128205128
+com.google.javascript.rhino.Node@2395 0.10128205128205128

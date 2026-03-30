@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.GlobalNamespace@296 0.55
+com.google.javascript.jscomp.GlobalNamespace@317 0.3785714285714286
+com.google.javascript.rhino.JSDocInfoBuilder@189 0.3357142857142857
+com.google.javascript.jscomp.GlobalNamespace@911 0.3214285714285714
+com.google.javascript.jscomp.CollapseProperties@548 0.2785714285714286
+com.google.javascript.jscomp.GlobalNamespace@411 0.2785714285714286
+com.google.javascript.jscomp.CollapseProperties@550 0.18571428571428572
+com.google.javascript.rhino.Node@1323 0.17857142857142855
+com.google.javascript.jscomp.GlobalNamespace@415 0.14285714285714285
+com.google.javascript.rhino.JSDocInfoBuilder@60 0.1

@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.LightweightMessageFormatter@90 0.55
+com.google.javascript.jscomp.LightweightMessageFormatter@91 0.5027777777777778
+com.google.javascript.jscomp.LightweightMessageFormatter@97 0.4666666666666668
+com.google.javascript.jscomp.LightweightMessageFormatter@92 0.3986111111111111
+com.google.javascript.jscomp.LightweightMessageFormatter@79 0.30694444444444446
+com.google.javascript.jscomp.LightweightMessageFormatter@76 0.20277777777777783
+com.google.javascript.jscomp.LightweightMessageFormatter@78 0.18888888888888888
+com.google.javascript.jscomp.LightweightMessageFormatter@59 0.16111111111111115
+com.google.javascript.jscomp.LightweightMessageFormatter@77 0.16111111111111115
+com.google.javascript.jscomp.AbstractMessageFormatter@75 0.1

@@ -1,0 +1,10 @@
+org.apache.commons.math.complex.Complex@363 0.55
+org.apache.commons.math.complex.Complex@358 0.4362359550561797
+org.apache.commons.math.complex.Complex@355 0.40112359550561805
+org.apache.commons.math.complex.Complex@258 0.3168539325842697
+org.apache.commons.math.complex.Complex@280 0.1904494382022472
+org.apache.commons.math.complex.Complex@248 0.14831460674157304
+org.apache.commons.math.complex.Complex@255 0.14831460674157304
+org.apache.commons.math.complex.Complex@277 0.13426966292134832
+org.apache.commons.math.complex.Complex@266 0.13426966292134832
+org.apache.commons.math.complex.Complex@310 0.1

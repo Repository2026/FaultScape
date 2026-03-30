@@ -1,0 +1,10 @@
+org.joda.time.DateTime@685 0.55
+org.joda.time.DateTimeZone@1175 0.46954022988505745
+org.joda.time.DateTime@665 0.3998563218390804
+org.joda.time.chrono.ZonedChronology@319 0.3948275862068965
+org.joda.time.base.AbstractInstant@266 0.30862068965517236
+org.joda.time.DateTime@1101 0.2310344827586207
+org.joda.time.DateTime@1098 0.15057471264367817
+org.joda.time.base.BaseDateTime@126 0.13620689655172413
+org.joda.time.DateTime@582 0.10028735632183908
+org.joda.time.base.AbstractInstant@259 0.1

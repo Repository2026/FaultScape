@@ -1,0 +1,10 @@
+org.apache.commons.math.special.Erf@56 0.55
+org.apache.commons.math.special.Gamma@180 0.5048192771084338
+org.apache.commons.math.distribution.NormalDistributionImpl@109 0.4246987951807229
+org.apache.commons.math.MaxIterationsExceededException@36 0.36325301204819277
+org.apache.commons.math.MathException@151 0.11024096385542168
+org.apache.commons.math.MathException@83 0.1
+org.apache.commons.math.MathException@113 0.1
+org.apache.commons.math.MathException@85 0.1
+org.apache.commons.math.MathException@115 0.1
+org.apache.commons.math.MathException@100 0.1

@@ -1,0 +1,10 @@
+org.apache.commons.lang3.StringUtils@3648 0.55
+org.apache.commons.lang3.StringUtils@3727 0.4526845637583892
+org.apache.commons.lang3.StringUtils@3676 0.4224832214765101
+org.apache.commons.lang3.StringUtils@3675 0.41073825503355704
+org.apache.commons.lang3.StringUtils@3712 0.3453020134228188
+org.apache.commons.lang3.StringUtils@3502 0.3436241610738255
+org.apache.commons.lang3.StringUtils@3709 0.25469798657718123
+org.apache.commons.lang3.StringUtils@3645 0.20100671140939597
+org.apache.commons.lang3.StringUtils@3726 0.1842281879194631
+org.apache.commons.lang3.StringUtils@3653 0.10033557046979866

@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.parsing.IRFactory@1080 0.55
+com.google.javascript.rhino.Node@1430 0.5378048780487805
+com.google.javascript.rhino.Node@1457 0.5280487804878049
+com.google.javascript.jscomp.CodeGenerator@992 0.525609756097561
+com.google.javascript.rhino.Node@1459 0.4890243902439025
+com.google.javascript.rhino.Node@1452 0.44024390243902445
+com.google.javascript.rhino.Node@1428 0.44024390243902445
+com.google.javascript.rhino.Node@1446 0.4158536585365854
+com.google.javascript.rhino.Node@1429 0.24512195121951225
+com.google.javascript.jscomp.parsing.IRFactory@1078 0.1

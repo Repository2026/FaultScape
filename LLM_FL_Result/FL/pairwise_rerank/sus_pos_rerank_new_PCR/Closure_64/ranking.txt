@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.Compiler@1293 0.55
+com.google.javascript.jscomp.CodeGenerator@71 0.5142857142857143
+com.google.javascript.jscomp.VarCheck@173 0.32142857142857145
+com.google.javascript.jscomp.StatementFusion@61 0.27857142857142864
+com.google.javascript.jscomp.AbstractCommandLineRunner@830 0.27142857142857146
+com.google.javascript.jscomp.DefaultPassConfig@1613 0.2714285714285714
+com.google.javascript.jscomp.CommandLineRunner@574 0.25000000000000006
+com.google.javascript.jscomp.DefaultPassConfig@337 0.24285714285714288
+com.google.javascript.jscomp.DefaultPassConfig@320 0.15714285714285714
+com.google.javascript.jscomp.DefaultPassConfig@2068 0.1

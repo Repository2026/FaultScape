@@ -1,0 +1,10 @@
+org.joda.time.PeriodType@690 0.55
+org.joda.time.Period@1630 0.3955696202531645
+org.joda.time.Period@1631 0.37658227848101256
+org.joda.time.PeriodType@558 0.3031645569620252
+org.joda.time.PeriodType@571 0.23987341772151893
+org.joda.time.base.AbstractPeriod@137 0.20822784810126577
+org.joda.time.PeriodType@373 0.1955696202531645
+org.joda.time.PeriodType@576 0.1512658227848101
+org.joda.time.PeriodType@535 0.10063291139240506
+org.joda.time.PeriodType@649 0.1

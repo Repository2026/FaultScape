@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeCheck@1664 0.55
+com.google.javascript.jscomp.TypeCheck@1656 0.49961240310077515
+com.google.javascript.jscomp.TypeCheck@1662 0.4479328165374677
+com.google.javascript.jscomp.FunctionTypeBuilder@361 0.37558139534883717
+com.google.javascript.rhino.jstype.JSTypeRegistry@1528 0.26963824289405686
+com.google.javascript.rhino.jstype.FunctionType@578 0.21149870801033593
+com.google.javascript.jscomp.TypeCheck@1604 0.21149870801033593
+com.google.javascript.jscomp.TypeCheck@1644 0.21149870801033593
+com.google.javascript.jscomp.TypeCheck@404 0.16111111111111112
+com.google.javascript.rhino.jstype.NamedType@381 0.1

@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@104 0.55
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@370 0.4566265060240964
+com.google.javascript.jscomp.CheckPathsBetweenNodes@224 0.44156626506024094
+com.google.javascript.rhino.Node@1430 0.4114457831325301
+com.google.javascript.jscomp.MustBeReachingVariableDef@305 0.38885542168674697
+com.google.javascript.jscomp.FlowSensitiveInlineVariables@108 0.336144578313253
+com.google.javascript.jscomp.CheckPathsBetweenNodes@201 0.2156626506024097
+com.google.javascript.jscomp.CheckPathsBetweenNodes@206 0.1102409638554217
+com.google.javascript.jscomp.CheckPathsBetweenNodes@228 0.09518072289156626
+com.google.javascript.rhino.Node@2307 0.09518072289156626

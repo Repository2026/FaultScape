@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.GlobalNamespace@920 0.55
+com.google.javascript.jscomp.GlobalNamespace@924 0.55
+com.google.javascript.jscomp.GlobalNamespace@277 0.4785714285714286
+com.google.javascript.jscomp.GlobalNamespace@915 0.40714285714285714
+com.google.javascript.jscomp.GlobalNamespace@293 0.40714285714285714
+com.google.javascript.jscomp.GlobalNamespace@288 0.26428571428571435
+com.google.javascript.jscomp.GlobalNamespace@805 0.25535714285714284
+com.google.javascript.jscomp.GlobalNamespace@510 0.1928571428571429
+com.google.javascript.jscomp.GlobalNamespace@905 0.175
+com.google.javascript.jscomp.GlobalNamespace@302 0.12142857142857144

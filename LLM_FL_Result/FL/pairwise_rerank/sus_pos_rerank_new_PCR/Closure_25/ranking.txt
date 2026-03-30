@@ -1,0 +1,10 @@
+com.google.javascript.rhino.jstype.RecordTypeBuilder@89 0.55
+com.google.javascript.jscomp.parsing.JsDocInfoParser@2009 0.46538461538461545
+com.google.javascript.jscomp.FunctionTypeBuilder@517 0.35
+com.google.javascript.jscomp.TypeInference@667 0.35
+com.google.javascript.jscomp.NodeUtil@3045 0.3269230769230769
+com.google.javascript.jscomp.NodeUtil@2025 0.22692307692307695
+com.google.javascript.jscomp.FunctionTypeBuilder@532 0.20384615384615384
+com.google.javascript.rhino.jstype.RecordTypeBuilder@75 0.20384615384615384
+com.google.javascript.jscomp.parsing.JsDocInfoParser@2188 0.11153846153846156
+com.google.javascript.jscomp.ControlFlowAnalysis@670 0.09615384615384616

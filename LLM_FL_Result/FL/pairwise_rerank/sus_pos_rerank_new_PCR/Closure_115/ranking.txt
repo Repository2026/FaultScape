@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.FunctionInjector@730 0.55
+com.google.javascript.jscomp.FunctionInjector@702 0.43251366120218576
+com.google.javascript.jscomp.FunctionInjector@698 0.3778688524590164
+com.google.javascript.jscomp.FunctionInjector@701 0.323224043715847
+com.google.javascript.jscomp.FunctionInjector@725 0.323224043715847
+com.google.javascript.jscomp.FunctionInjector@731 0.3163934426229509
+com.google.javascript.jscomp.FunctionInjector@706 0.21393442622950826
+com.google.javascript.jscomp.NodeUtil@1149 0.20710382513661202
+com.google.javascript.jscomp.FunctionInjector@729 0.1592896174863388
+com.google.javascript.jscomp.NodeUtil@1130 0.1

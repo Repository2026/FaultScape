@@ -1,0 +1,10 @@
+org.joda.time.base.AbstractDuration@80 0.55
+org.joda.time.Period@722 0.5325949367088608
+org.joda.time.Period@713 0.3348101265822785
+org.joda.time.field.MillisDurationField@125 0.31107594936708854
+org.joda.time.chrono.ZonedChronology@347 0.295253164556962
+org.joda.time.chrono.ZonedChronology@331 0.2873417721518987
+org.joda.time.Period@704 0.24778481012658227
+org.joda.time.chrono.ZonedChronology@294 0.11329113924050634
+org.joda.time.tz.FixedDateTimeZone@61 0.09746835443037974
+org.joda.time.field.FieldUtils@120 0.09746835443037974

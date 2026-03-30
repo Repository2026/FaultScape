@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypedScopeCreator@1744 0.55
+com.google.javascript.jscomp.TypeValidator@549 0.5336309523809524
+com.google.javascript.jscomp.TypeValidator@553 0.41607142857142854
+com.google.javascript.jscomp.SemanticReverseAbstractInterpreter@255 0.4071428571428571
+com.google.javascript.jscomp.TypeCheck@922 0.3922619047619047
+com.google.javascript.jscomp.TypeCheck@921 0.26577380952380947
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1653 0.1913690476190476
+com.google.javascript.jscomp.MemoizedScopeCreator@56 0.1913690476190476
+com.google.javascript.jscomp.Scope@261 0.1
+com.google.javascript.jscomp.ChainableReverseAbstractInterpreter@79 0.1

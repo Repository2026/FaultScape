@@ -1,0 +1,10 @@
+org.apache.commons.lang3.SystemUtils@1673 0.55
+org.apache.commons.lang3.ArrayUtils@104 0.28923444976076557
+org.apache.commons.lang3.ArrayUtils@100 0.223444976076555
+org.apache.commons.lang3.SystemUtils@1717 0.1875598086124402
+org.apache.commons.lang3.ArrayUtils@120 0.1456937799043062
+org.apache.commons.lang3.ArrayUtils@96 0.13971291866028707
+org.apache.commons.lang3.ArrayUtils@56 0.10382775119617224
+org.apache.commons.lang3.ArrayUtils@80 0.1
+org.apache.commons.lang3.ArrayUtils@72 0.1
+org.apache.commons.lang3.ArrayUtils@88 0.0799043062200957

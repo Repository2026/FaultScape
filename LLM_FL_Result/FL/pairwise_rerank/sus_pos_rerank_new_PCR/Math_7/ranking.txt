@@ -1,0 +1,10 @@
+org.apache.commons.math3.ode.AbstractIntegrator@363 0.55
+org.apache.commons.math3.ode.events.EventState@203 0.4924242424242424
+org.apache.commons.math3.ode.events.EventState@353 0.4742424242424242
+org.apache.commons.math3.ode.AbstractIntegrator@351 0.4212121212121212
+org.apache.commons.math3.ode.events.EventState@319 0.36818181818181817
+org.apache.commons.math3.ode.AbstractIntegrator@127 0.3606060606060606
+org.apache.commons.math3.ode.events.EventState@343 0.309090909090909
+org.apache.commons.math3.ode.AbstractIntegrator@138 0.14848484848484847
+org.apache.commons.math3.ode.events.EventState@331 0.11060606060606061
+org.apache.commons.math3.util.FastMath@3373 0.1

@@ -1,0 +1,10 @@
+org.apache.commons.lang.StringEscapeUtils@244 0.55
+org.apache.commons.lang.StringEscapeUtils@245 0.5451989026063101
+org.apache.commons.lang.StringEscapeUtils@228 0.43545953360768164
+org.apache.commons.lang.StringEscapeUtils@246 0.42654320987654315
+org.apache.commons.lang.StringEscapeUtils@197 0.3010288065843621
+org.apache.commons.lang.StringEscapeUtils@193 0.2900548696844993
+org.apache.commons.lang.StringEscapeUtils@195 0.23655692729766803
+org.apache.commons.lang.StringEscapeUtils@86 0.15973936899862826
+org.apache.commons.lang.StringEscapeUtils@186 0.1117283950617284
+org.apache.commons.lang.StringEscapeUtils@160 0.1

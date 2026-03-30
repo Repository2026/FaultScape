@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.NodeUtil@346 0.55
+com.google.javascript.jscomp.ProcessDefines@407 0.41805555555555557
+com.google.javascript.jscomp.ProcessDefines@292 0.39166666666666666
+com.google.javascript.jscomp.ProcessDefines@405 0.39027777777777783
+com.google.javascript.jscomp.ProcessDefines@281 0.25833333333333336
+com.google.javascript.jscomp.parsing.JsDocInfoParser@773 0.21666666666666673
+com.google.javascript.jscomp.ProcessDefines@180 0.16111111111111115
+com.google.javascript.rhino.JSDocInfoBuilder@431 0.14722222222222223
+com.google.javascript.rhino.JSDocInfoBuilder@436 0.14027777777777778
+com.google.javascript.jscomp.ProcessDefines@242 0.1

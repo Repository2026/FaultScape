@@ -1,0 +1,10 @@
+org.jfree.data.time.Week@175 0.55
+org.jfree.data.time.Week@204 0.49800000000000005
+org.jfree.data.time.Week@211 0.46066666666666667
+org.jfree.data.time.Week@198 0.39
+org.jfree.data.time.Week@205 0.30999999999999994
+org.jfree.data.time.Week@199 0.27666666666666667
+org.jfree.data.time.Week@189 0.18333333333333335
+org.jfree.data.time.Week@192 0.15133333333333332
+org.jfree.data.time.Week@195 0.11000000000000001
+org.jfree.data.time.Week@248 0.1

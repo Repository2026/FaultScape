@@ -1,0 +1,10 @@
+com.google.javascript.rhino.jstype.JSType@591 0.55
+com.google.javascript.rhino.jstype.UnionType@291 0.4256830601092896
+com.google.javascript.rhino.jstype.UnionType@290 0.38606557377049183
+com.google.javascript.rhino.jstype.UnionTypeBuilder@157 0.38606557377049183
+com.google.javascript.rhino.jstype.UnionType@276 0.3027322404371585
+com.google.javascript.rhino.jstype.UnionType@274 0.2685792349726776
+com.google.javascript.rhino.jstype.UnionType@287 0.2685792349726776
+com.google.javascript.rhino.jstype.UnionType@321 0.2002732240437159
+com.google.javascript.rhino.jstype.InstanceObjectType@157 0.1
+com.google.javascript.rhino.jstype.NoObjectType@285 0.09098360655737706

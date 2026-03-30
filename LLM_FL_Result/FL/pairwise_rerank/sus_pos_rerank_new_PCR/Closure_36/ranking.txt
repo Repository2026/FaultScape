@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1417 0.55
+com.google.javascript.rhino.Node@1433 0.5142857142857142
+com.google.javascript.jscomp.PureFunctionIdentifier@504 0.4357142857142856
+com.google.javascript.jscomp.RemoveUnusedVars@458 0.3785714285714285
+com.google.javascript.jscomp.RemoveUnusedVars@734 0.3357142857142857
+com.google.javascript.jscomp.PureFunctionIdentifier@501 0.21428571428571425
+com.google.javascript.jscomp.PureFunctionIdentifier@564 0.19999999999999996
+com.google.javascript.jscomp.PureFunctionIdentifier@493 0.14999999999999997
+com.google.javascript.jscomp.PureFunctionIdentifier@500 0.10714285714285715
+com.google.javascript.jscomp.PureFunctionIdentifier@903 0.09999999999999999

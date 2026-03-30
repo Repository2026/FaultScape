@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.TypeInference@1071 0.55
+com.google.javascript.jscomp.TypeInference@1061 0.44886039886039886
+com.google.javascript.jscomp.TypeInference@1077 0.44173789173789174
+com.google.javascript.jscomp.TypeInference@1359 0.3349002849002849
+com.google.javascript.jscomp.TypeInference@1127 0.3277777777777777
+com.google.javascript.jscomp.TypeInference@1021 0.2707977207977208
+com.google.javascript.rhino.jstype.TemplateTypeMapReplacer@70 0.21381766381766382
+com.google.javascript.jscomp.TypeInference@1151 0.21381766381766382
+com.google.javascript.jscomp.TypeInference@1147 0.09273504273504274
+com.google.javascript.jscomp.TypeInference@1146 0.09273504273504274

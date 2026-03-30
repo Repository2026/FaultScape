@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.InlineVariables@309 0.55
+com.google.javascript.jscomp.InlineVariables@301 0.4953551912568306
+com.google.javascript.jscomp.InlineVariables@315 0.38606557377049183
+com.google.javascript.jscomp.InlineVariables@305 0.323224043715847
+com.google.javascript.rhino.Node@1430 0.28224043715846997
+com.google.javascript.jscomp.InlineVariables@182 0.2685792349726776
+com.google.javascript.jscomp.InlineVariables@349 0.2685792349726776
+com.google.javascript.jscomp.ReferenceCollectingCallback@623 0.1592896174863388
+com.google.javascript.jscomp.ReferenceCollectingCallback@611 0.1592896174863388
+com.google.javascript.rhino.Node@1459 0.1046448087431694

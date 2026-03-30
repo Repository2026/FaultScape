@@ -1,0 +1,10 @@
+org.apache.commons.math.distribution.AbstractContinuousDistribution@84 0.55
+org.apache.commons.math.analysis.UnivariateRealSolverUtils@179 0.42608069164265133
+org.apache.commons.math.distribution.FDistributionImpl@147 0.3828530259365994
+org.apache.commons.math.analysis.UnivariateRealSolverUtils@178 0.3684438040345821
+org.apache.commons.math.distribution.FDistributionImpl@145 0.22291066282420752
+org.apache.commons.math.distribution.FDistributionImpl@119 0.1796829971181556
+org.apache.commons.math.distribution.AbstractContinuousDistribution@80 0.1739193083573487
+org.apache.commons.math.analysis.UnivariateRealSolverUtils@128 0.172478386167147
+org.apache.commons.math.analysis.UnivariateRealSolverUtils@174 0.172478386167147
+org.apache.commons.math.distribution.AbstractContinuousDistribution@67 0.11628242074927954

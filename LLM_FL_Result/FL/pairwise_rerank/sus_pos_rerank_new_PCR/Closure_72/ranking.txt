@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1424 0.55
+com.google.javascript.rhino.Node@1417 0.5291666666666668
+com.google.javascript.rhino.Node@1422 0.4666666666666667
+com.google.javascript.rhino.Node@1411 0.45624999999999993
+com.google.javascript.rhino.Node@1410 0.4458333333333333
+com.google.javascript.rhino.Node@1380 0.40416666666666673
+com.google.javascript.rhino.Node@1423 0.2791666666666667
+com.google.javascript.rhino.Node@313 0.21666666666666667
+com.google.javascript.rhino.Node@1382 0.19583333333333336
+com.google.javascript.rhino.Node@1381 0.13333333333333336

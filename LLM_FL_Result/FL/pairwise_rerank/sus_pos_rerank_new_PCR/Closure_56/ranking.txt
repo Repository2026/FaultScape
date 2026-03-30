@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.SourceFile@244 0.55
+com.google.javascript.jscomp.SourceFile@227 0.4185567010309278
+com.google.javascript.jscomp.SourceFile@238 0.37216494845360826
+com.google.javascript.jscomp.JsMessageExtractor@127 0.27551546391752574
+com.google.javascript.jscomp.JsMessageExtractor@137 0.22396907216494844
+com.google.javascript.jscomp.JsMessageExtractor@117 0.2110824742268041
+com.google.javascript.jscomp.JsMessageExtractor@122 0.2110824742268041
+com.google.javascript.jscomp.RhinoErrorReporter@136 0.12731958762886597
+com.google.javascript.jscomp.RhinoErrorReporter@120 0.1
+com.google.javascript.jscomp.RhinoErrorReporter@166 0.08865979381443298

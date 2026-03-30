@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter@192 0.55
+com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter@223 0.4148648648648649
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@128 0.37432432432432433
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@122 0.3675675675675676
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@125 0.3202702702702703
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@124 0.2662162162162163
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@120 0.21216216216216222
+com.google.javascript.jscomp.type.ClosureReverseAbstractInterpreter@262 0.15810810810810813
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter@123 0.15810810810810813
+com.google.javascript.rhino.jstype.PropertyMap@114 0.09054054054054055

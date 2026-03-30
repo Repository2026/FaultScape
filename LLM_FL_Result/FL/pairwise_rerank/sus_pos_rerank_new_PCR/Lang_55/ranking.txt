@@ -1,0 +1,10 @@
+org.apache.commons.lang.time.StopWatch@210 0.55
+org.apache.commons.lang.time.StopWatch@209 0.4736200256739409
+org.apache.commons.lang.time.StopWatch@179 0.35808729139922973
+org.apache.commons.lang.time.StopWatch@180 0.3452503209242618
+org.apache.commons.lang.time.StopWatch@115 0.23613607188703467
+org.apache.commons.lang.time.StopWatch@119 0.22971758664955072
+org.apache.commons.lang.time.StopWatch@176 0.20404364569961492
+org.apache.commons.lang.time.StopWatch@118 0.1462772785622593
+org.apache.commons.lang.time.StopWatch@181 0.10134788189987162
+org.apache.commons.lang.time.StopWatch@120 0.1

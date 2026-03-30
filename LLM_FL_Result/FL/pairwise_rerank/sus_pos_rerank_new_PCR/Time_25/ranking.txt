@@ -1,0 +1,10 @@
+org.joda.time.tz.CachedDateTimeZone@204 0.55
+org.joda.time.tz.CachedDateTimeZone@210 0.4201298701298701
+org.joda.time.DateTime@285 0.3616883116883117
+org.joda.time.base.AbstractInstant@424 0.36168831168831167
+org.joda.time.chrono.BasicGJChronology@93 0.29675324675324677
+org.joda.time.chrono.BasicChronology@175 0.1409090909090909
+org.joda.time.chrono.GregorianChronology@197 0.11493506493506493
+org.joda.time.field.PreciseDateTimeField@79 0.10194805194805195
+org.joda.time.chrono.GregorianChronology@241 0.1
+org.joda.time.chrono.GregorianChronology@233 0.1

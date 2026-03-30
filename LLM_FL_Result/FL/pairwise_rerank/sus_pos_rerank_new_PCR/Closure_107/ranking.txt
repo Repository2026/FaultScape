@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.JsMessageVisitor@245 0.55
+com.google.javascript.jscomp.JsMessageVisitor@201 0.44460154241645244
+com.google.javascript.jscomp.CommandLineRunner@861 0.42532133676092543
+com.google.javascript.jscomp.JsMessageVisitor@855 0.42403598971722367
+com.google.javascript.jscomp.JsMessageVisitor@204 0.33406169665809765
+com.google.javascript.jscomp.JsMessageVisitor@187 0.19781491002570695
+com.google.javascript.jscomp.Compiler@2171 0.15282776349614396
+com.google.javascript.jscomp.DefaultPassConfig@343 0.14640102827763496
+com.google.javascript.jscomp.BasicErrorManager@45 0.13997429305912595
+com.google.javascript.jscomp.Compiler@2167 0.088560411311054

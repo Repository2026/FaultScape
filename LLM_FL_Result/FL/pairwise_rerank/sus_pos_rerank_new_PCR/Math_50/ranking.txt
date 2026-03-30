@@ -1,0 +1,10 @@
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@188 0.55
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@189 0.5166666666666667
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@187 0.44583333333333336
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@235 0.40416666666666673
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@160 0.32916666666666666
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@171 0.29444444444444445
+org.apache.commons.math.analysis.solvers.BaseSecantSolver@150 0.22361111111111115
+org.apache.commons.math.util.FastMath@3925 0.1263888888888889
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver@128 0.1
+org.apache.commons.math.util.FastMath@3929 0.09166666666666667

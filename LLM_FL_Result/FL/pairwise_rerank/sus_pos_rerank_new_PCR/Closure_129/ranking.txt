@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.parsing.IRFactory@371 0.55
+com.google.javascript.rhino.Node@1428 0.5053846153846154
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1949 0.4192307692307692
+com.google.javascript.jscomp.parsing.JsDocInfoParser@2060 0.34230769230769226
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1943 0.3038461538461538
+com.google.javascript.rhino.Node@1444 0.29615384615384616
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1888 0.29615384615384616
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1896 0.29615384615384616
+com.google.javascript.jscomp.parsing.JsDocInfoParser@1948 0.1807692307692308
+com.google.javascript.rhino.Node@1457 0.11153846153846154

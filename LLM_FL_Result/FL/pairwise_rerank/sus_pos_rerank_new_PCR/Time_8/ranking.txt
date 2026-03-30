@@ -1,0 +1,10 @@
+org.joda.time.DateTimeZone@280 0.55
+org.joda.time.DateTimeZone@290 0.4288659793814433
+org.joda.time.DateTimeZone@274 0.40309278350515465
+org.joda.time.DateTimeZone@285 0.213659793814433
+org.joda.time.DateTimeZone@643 0.20463917525773195
+org.joda.time.format.FormatUtils@353 0.1917525773195876
+org.joda.time.DateTimeZone@216 0.17886597938144327
+org.joda.time.DateTimeZone@221 0.15309278350515465
+org.joda.time.DateTimeZone@218 0.1
+org.joda.time.DateTimeZone@217 0.1

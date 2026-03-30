@@ -1,0 +1,10 @@
+org.joda.time.chrono.BasicMonthOfYearDateTimeField@210 0.55
+org.joda.time.DateTimeUtils@338 0.22182130584192444
+org.joda.time.DateTimeUtils@340 0.18745704467353952
+org.joda.time.base.AbstractPartial@266 0.13591065292096222
+org.joda.time.DateTimeUtils@341 0.10154639175257732
+org.joda.time.base.AbstractPartial@265 0.10154639175257732
+org.joda.time.DateTimeUtils@345 0.1
+org.joda.time.DateTimeUtils@347 0.1
+org.joda.time.base.AbstractPartial@267 0.1
+org.joda.time.base.AbstractPartial@255 0.1

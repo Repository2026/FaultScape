@@ -1,0 +1,10 @@
+org.apache.commons.lang.text.ExtendedMessageFormat@158 0.55
+org.apache.commons.lang.text.ExtendedMessageFormat@420 0.5484939759036145
+org.apache.commons.lang.text.ExtendedMessageFormat@421 0.41295180722891567
+org.apache.commons.lang.text.ExtendedMessageFormat@419 0.36777108433734945
+org.apache.commons.lang.text.ExtendedMessageFormat@150 0.3602409638554217
+org.apache.commons.lang.text.ExtendedMessageFormat@159 0.23222891566265058
+org.apache.commons.lang.text.ExtendedMessageFormat@156 0.18328313253012052
+org.apache.commons.lang.text.ExtendedMessageFormat@422 0.17951807228915667
+org.apache.commons.lang.text.ExtendedMessageFormat@112 0.1102409638554217
+org.apache.commons.lang.text.ExtendedMessageFormat@403 0.1

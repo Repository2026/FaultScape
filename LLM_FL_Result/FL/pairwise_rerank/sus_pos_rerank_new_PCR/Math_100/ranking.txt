@@ -1,0 +1,10 @@
+org.apache.commons.math.estimation.AbstractEstimator@172 0.55
+org.apache.commons.math.estimation.AbstractEstimator@167 0.4707920792079207
+org.apache.commons.math.estimation.AbstractEstimator@166 0.368069306930693
+org.apache.commons.math.estimation.AbstractEstimator@170 0.35569306930693056
+org.apache.commons.math.estimation.AbstractEstimator@169 0.311138613861386
+org.apache.commons.math.estimation.AbstractEstimator@165 0.3061881188118811
+org.apache.commons.math.estimation.GaussNewtonEstimator@157 0.19851485148514852
+org.apache.commons.math.estimation.SimpleEstimationProblem@58 0.14900990099009898
+org.apache.commons.math.estimation.EstimatedParameter@61 0.1
+org.apache.commons.math.estimation.EstimatedParameter@62 0.1

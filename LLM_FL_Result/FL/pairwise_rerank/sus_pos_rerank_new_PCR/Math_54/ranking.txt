@@ -1,0 +1,10 @@
+org.apache.commons.math.dfp.Dfp@2341 0.55
+org.apache.commons.math.dfp.Dfp@2349 0.5157534246575344
+org.apache.commons.math.dfp.Dfp@2332 0.39246575342465756
+org.apache.commons.math.dfp.Dfp@2328 0.33219178082191786
+org.apache.commons.math.dfp.Dfp@1234 0.32397260273972606
+org.apache.commons.math.dfp.Dfp@2366 0.28561643835616446
+org.apache.commons.math.dfp.Dfp@2359 0.21438356164383565
+org.apache.commons.math.dfp.Dfp@2326 0.1664383561643836
+org.apache.commons.math.dfp.Dfp@2119 0.13219178082191782
+org.apache.commons.math.dfp.Dfp@1041 0.1

@@ -1,0 +1,10 @@
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@180 0.55
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@178 0.481266846361186
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@189 0.33571428571428574
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@190 0.33301886792452823
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@179 0.3208894878706199
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@176 0.2588948787061994
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@186 0.23867924528301887
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@177 0.1578167115902965
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@69 0.10390835579514826
+org.apache.commons.math.stat.clustering.KMeansPlusPlusClusterer@134 0.10390835579514826

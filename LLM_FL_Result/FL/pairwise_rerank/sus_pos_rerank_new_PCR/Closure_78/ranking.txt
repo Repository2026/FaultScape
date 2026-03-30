@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.PeepholeFoldConstants@718 0.55
+com.google.javascript.jscomp.PeepholeFoldConstants@729 0.5105263157894737
+com.google.javascript.jscomp.PeepholeFoldConstants@759 0.4447368421052632
+com.google.javascript.jscomp.AbstractPeepholeOptimization@54 0.2839181286549708
+com.google.javascript.jscomp.PeepholeFoldConstants@763 0.2839181286549708
+com.google.javascript.jscomp.BasicErrorManager@45 0.18157894736842106
+com.google.javascript.jscomp.Compiler@1716 0.18157894736842106
+com.google.javascript.jscomp.Compiler@1715 0.13771929824561402
+com.google.javascript.jscomp.BasicErrorManager@46 0.1
+com.google.javascript.jscomp.BasicErrorManager@47 0.1

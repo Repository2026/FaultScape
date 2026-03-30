@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@1567 0.55
+com.google.javascript.jscomp.Compiler@923 0.4875
+com.google.javascript.jscomp.Compiler@940 0.4785714285714286
+com.google.javascript.jscomp.MakeDeclaredNamesUnique@94 0.33571428571428574
+com.google.javascript.jscomp.MakeDeclaredNamesUnique@92 0.33571428571428574
+com.google.javascript.rhino.Node@1596 0.31785714285714284
+com.google.javascript.rhino.Node@1602 0.31785714285714284
+com.google.javascript.rhino.Node@1609 0.26428571428571435
+com.google.javascript.jscomp.NodeTraversal@510 0.1928571428571429
+com.google.javascript.jscomp.parsing.IRFactory@382 0.1

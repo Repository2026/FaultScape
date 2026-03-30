@@ -1,0 +1,10 @@
+com.google.javascript.jscomp.parsing.IRFactory@252 0.55
+com.google.javascript.rhino.TokenStream@185 0.3657894736842105
+com.google.javascript.rhino.TokenStream@63 0.3592105263157894
+com.google.javascript.jscomp.parsing.IRFactory@935 0.30657894736842106
+com.google.javascript.jscomp.parsing.IRFactory@1230 0.2671052631578948
+com.google.javascript.rhino.jstype.JSTypeRegistry@1069 0.14210526315789473
+com.google.javascript.rhino.jstype.PropertyMap@114 0.13552631578947366
+com.google.javascript.rhino.jstype.ObjectType@533 0.12894736842105264
+com.google.javascript.rhino.jstype.PropertyMap@181 0.1256578947368421
+com.google.javascript.jscomp.parsing.ParserRunner@54 0.08947368421052632

@@ -1,0 +1,10 @@
+org.apache.commons.math3.util.MathArrays@846 0.55
+org.apache.commons.math3.util.MathArrays@845 0.42947658402203853
+org.apache.commons.math3.util.MathArrays@826 0.40123966942148753
+org.apache.commons.math3.util.MathArrays@837 0.3874655647382921
+org.apache.commons.math3.util.MathArrays@836 0.2772727272727272
+org.apache.commons.math3.util.MathArrays@817 0.26349862258953166
+org.apache.commons.math3.util.MathArrays@829 0.2497245179063361
+org.apache.commons.math3.util.MathArrays@841 0.20151515151515148
+org.apache.commons.math3.util.MathArrays@834 0.10509641873278236
+org.apache.commons.math3.util.MathArrays@833 0.1

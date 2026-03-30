@@ -1,0 +1,10 @@
+com.google.javascript.rhino.Node@981 0.55
+com.google.javascript.jscomp.PeepholeFoldConstants@113 0.4962962962962962
+com.google.javascript.rhino.Node@886 0.4666666666666666
+com.google.javascript.jscomp.AstValidator@659 0.3277777777777778
+com.google.javascript.jscomp.AstValidator@660 0.30925925925925923
+com.google.javascript.rhino.Token@181 0.18888888888888888
+com.google.javascript.rhino.Node@999 0.12407407407407407
+com.google.javascript.rhino.Node@117 0.10555555555555556
+com.google.javascript.rhino.Node@954 0.10555555555555556
+com.google.javascript.jscomp.AbstractPeepholeOptimization@52 0.1
