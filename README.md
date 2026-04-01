@@ -33,6 +33,20 @@ FaultScape/
 
 ## Run FaultScape
 
+> **Quick start (reproduce experimental results efficiently):**  
+> Only **Step 4 (Dynamic Feature Integration)** and  **Step 5 (Pairwise Statement Reranking)** are required.
+
+### Minimal Commands
+
+```bash
+# Step 4: integrate semantic + dynamic features for initial ranking
+sh LLM_FL_Result/FL/run_FL_Result.sh
+
+# Step 5: LLM-based pairwise reranking
+python LLM_FL_Result/FL/pairwise_rerank/run_rerank.py
+python LLM_FL_Result/FL/pairwise_rerank/ranking_merge_FL_result.py
+```
+
 ### 1. Download the Dataset
 
 Download the required dataset from Mega:
